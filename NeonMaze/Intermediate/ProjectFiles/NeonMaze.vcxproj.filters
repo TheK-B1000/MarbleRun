@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\NeonMaze.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{49971C1F-9594-49B8-B8CC-027F7EE175C0}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\NeonMaze.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\NeonMazeEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{B4D2AEA5-66A6-49C4-877A-2348D50FF485}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Config\Android">
+      <UniqueIdentifier>{E0A76B12-F4D3-4AFA-86DB-E1B10A2B1DF0}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Android\AndroidEngine.ini">
+      <Filter>Config\Android</Filter>
+    </None>
+    <Filter Include="Config\IOS">
+      <UniqueIdentifier>{E4F892EE-E48E-4EEF-AFE0-278EC33B96EE}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\IOS\IOSEngine.ini">
+      <Filter>Config\IOS</Filter>
+    </None>
+    <Filter Include="Config\Linux">
+      <UniqueIdentifier>{2835F401-F8D1-4843-BCD8-C420CB527AD8}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Linux\LinuxEngine.ini">
+      <Filter>Config\Linux</Filter>
+    </None>
+    <Filter Include="Config\Mac">
+      <UniqueIdentifier>{212D5BFA-DF97-4003-A9A5-D345BF3A1B6E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Mac\MacEngine.ini">
+      <Filter>Config\Mac</Filter>
+    </None>
+    <Filter Include="Config\PS4">
+      <UniqueIdentifier>{C4D89756-B8E7-4378-8FCB-D4ADC4E3CC25}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\PS4\PS4Engine.ini">
+      <Filter>Config\PS4</Filter>
+    </None>
+    <Filter Include="Config\Switch">
+      <UniqueIdentifier>{E431C609-1C12-472D-815E-CE4AA726E95B}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Switch\SwitchEngine.ini">
+      <Filter>Config\Switch</Filter>
+    </None>
+    <Filter Include="Config\Windows">
+      <UniqueIdentifier>{ED4B4FD6-512D-4B60-B12D-254B91CD7994}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Windows\WindowsEngine.ini">
+      <Filter>Config\Windows</Filter>
+    </None>
+    <Filter Include="Config\XboxOne">
+      <UniqueIdentifier>{3D1EF2DB-FB28-4CCA-95F4-7BD0B3E4A199}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\XboxOne\XboxOneEngine.ini">
+      <Filter>Config\XboxOne</Filter>
+    </None>
+    <Filter Include="Source\NeonMaze">
+      <UniqueIdentifier>{62FFF03A-B134-489C-A7E4-1A6C608A5162}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\NeonMaze\NeonMaze.Build.cs">
+      <Filter>Source\NeonMaze</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\NeonMaze\NeonMaze.cpp">
+      <Filter>Source\NeonMaze</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\NeonMaze\NeonMaze.h">
+      <Filter>Source\NeonMaze</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\NeonMaze\NeonMazeGameModeBase.cpp">
+      <Filter>Source\NeonMaze</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\NeonMaze\NeonMazeGameModeBase.h">
+      <Filter>Source\NeonMaze</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
