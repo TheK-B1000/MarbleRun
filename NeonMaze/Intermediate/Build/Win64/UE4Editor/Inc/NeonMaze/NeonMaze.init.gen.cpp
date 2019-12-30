@@ -21,7 +21,7 @@ void EmptyLinkFunctionForGeneratedCodeNeonMaze_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000000,
-				0xA124C2EF,
+				0xA156F675,
 				0xEB65A6BB,
 				METADATA_PARAMS(nullptr, 0)
 			};

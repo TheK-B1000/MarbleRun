@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\NeonMaze.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{49971C1F-9594-49B8-B8CC-027F7EE175C0}</UniqueIdentifier>
+      <UniqueIdentifier>{E1864AB0-9825-49C5-83E0-8BA603B8CE49}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\NeonMaze.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{B4D2AEA5-66A6-49C4-877A-2348D50FF485}</UniqueIdentifier>
+      <UniqueIdentifier>{36E80568-9EC3-4E60-96A4-9254039BD718}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -24,55 +24,55 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Config\Android">
-      <UniqueIdentifier>{E0A76B12-F4D3-4AFA-86DB-E1B10A2B1DF0}</UniqueIdentifier>
+      <UniqueIdentifier>{7398DAF1-29F4-4426-8927-2D83DCD66850}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\Android\AndroidEngine.ini">
       <Filter>Config\Android</Filter>
     </None>
     <Filter Include="Config\IOS">
-      <UniqueIdentifier>{E4F892EE-E48E-4EEF-AFE0-278EC33B96EE}</UniqueIdentifier>
+      <UniqueIdentifier>{8627B85C-5F1B-4E80-9B1C-21C0C4E8EBE3}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\IOS\IOSEngine.ini">
       <Filter>Config\IOS</Filter>
     </None>
     <Filter Include="Config\Linux">
-      <UniqueIdentifier>{2835F401-F8D1-4843-BCD8-C420CB527AD8}</UniqueIdentifier>
+      <UniqueIdentifier>{7E6A81A4-A3DE-40A6-9182-2C4F43D97BC8}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\Linux\LinuxEngine.ini">
       <Filter>Config\Linux</Filter>
     </None>
     <Filter Include="Config\Mac">
-      <UniqueIdentifier>{212D5BFA-DF97-4003-A9A5-D345BF3A1B6E}</UniqueIdentifier>
+      <UniqueIdentifier>{6A11255C-4F8F-46B2-8E0F-FE45EB9BA8BA}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\Mac\MacEngine.ini">
       <Filter>Config\Mac</Filter>
     </None>
     <Filter Include="Config\PS4">
-      <UniqueIdentifier>{C4D89756-B8E7-4378-8FCB-D4ADC4E3CC25}</UniqueIdentifier>
+      <UniqueIdentifier>{57CD1D6C-28CC-4D79-9177-FC8E6B49151B}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\PS4\PS4Engine.ini">
       <Filter>Config\PS4</Filter>
     </None>
     <Filter Include="Config\Switch">
-      <UniqueIdentifier>{E431C609-1C12-472D-815E-CE4AA726E95B}</UniqueIdentifier>
+      <UniqueIdentifier>{188FFC12-C6AE-4BC1-97BD-BF5F3CCC868F}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\Switch\SwitchEngine.ini">
       <Filter>Config\Switch</Filter>
     </None>
     <Filter Include="Config\Windows">
-      <UniqueIdentifier>{ED4B4FD6-512D-4B60-B12D-254B91CD7994}</UniqueIdentifier>
+      <UniqueIdentifier>{43EA8F0B-98FB-44FC-B6A7-BB09315B6446}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\Windows\WindowsEngine.ini">
       <Filter>Config\Windows</Filter>
     </None>
     <Filter Include="Config\XboxOne">
-      <UniqueIdentifier>{3D1EF2DB-FB28-4CCA-95F4-7BD0B3E4A199}</UniqueIdentifier>
+      <UniqueIdentifier>{5D059899-7FD2-44F0-918A-831A873955A6}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\XboxOne\XboxOneEngine.ini">
       <Filter>Config\XboxOne</Filter>
     </None>
     <Filter Include="Source\NeonMaze">
-      <UniqueIdentifier>{62FFF03A-B134-489C-A7E4-1A6C608A5162}</UniqueIdentifier>
+      <UniqueIdentifier>{4DEC6BFA-E898-4AA1-B0D1-F946867F7837}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\NeonMaze\NeonMaze.Build.cs">
       <Filter>Source\NeonMaze</Filter>

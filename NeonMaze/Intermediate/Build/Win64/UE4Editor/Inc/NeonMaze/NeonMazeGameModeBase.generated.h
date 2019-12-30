@@ -13,6 +13,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define NEONMAZE_NeonMazeGameModeBase_generated_h
 
+#define NeonMaze_Source_NeonMaze_NeonMazeGameModeBase_h_15_SPARSE_DATA
 #define NeonMaze_Source_NeonMaze_NeonMazeGameModeBase_h_15_RPC_WRAPPERS
 #define NeonMaze_Source_NeonMaze_NeonMazeGameModeBase_h_15_RPC_WRAPPERS_NO_PURE_DECLS
 #define NeonMaze_Source_NeonMaze_NeonMazeGameModeBase_h_15_INCLASS_NO_PURE_DECLS \
@@ -20,7 +21,7 @@ private: \
 	static void StaticRegisterNativesANeonMazeGameModeBase(); \
 	friend struct Z_Construct_UClass_ANeonMazeGameModeBase_Statics; \
 public: \
-	DECLARE_CLASS(ANeonMazeGameModeBase, AGameModeBase, COMPILED_IN_FLAGS(0 | CLASS_Transient), CASTCLASS_None, TEXT("/Script/NeonMaze"), NO_API) \
+	DECLARE_CLASS(ANeonMazeGameModeBase, AGameModeBase, COMPILED_IN_FLAGS(0 | CLASS_Transient | CLASS_Config), CASTCLASS_None, TEXT("/Script/NeonMaze"), NO_API) \
 	DECLARE_SERIALIZER(ANeonMazeGameModeBase)
 
 
@@ -29,7 +30,7 @@ private: \
 	static void StaticRegisterNativesANeonMazeGameModeBase(); \
 	friend struct Z_Construct_UClass_ANeonMazeGameModeBase_Statics; \
 public: \
-	DECLARE_CLASS(ANeonMazeGameModeBase, AGameModeBase, COMPILED_IN_FLAGS(0 | CLASS_Transient), CASTCLASS_None, TEXT("/Script/NeonMaze"), NO_API) \
+	DECLARE_CLASS(ANeonMazeGameModeBase, AGameModeBase, COMPILED_IN_FLAGS(0 | CLASS_Transient | CLASS_Config), CASTCLASS_None, TEXT("/Script/NeonMaze"), NO_API) \
 	DECLARE_SERIALIZER(ANeonMazeGameModeBase)
 
 
@@ -65,6 +66,7 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(ANeonMazeGameModeBase); \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
 	NeonMaze_Source_NeonMaze_NeonMazeGameModeBase_h_15_PRIVATE_PROPERTY_OFFSET \
+	NeonMaze_Source_NeonMaze_NeonMazeGameModeBase_h_15_SPARSE_DATA \
 	NeonMaze_Source_NeonMaze_NeonMazeGameModeBase_h_15_RPC_WRAPPERS \
 	NeonMaze_Source_NeonMaze_NeonMazeGameModeBase_h_15_INCLASS \
 	NeonMaze_Source_NeonMaze_NeonMazeGameModeBase_h_15_STANDARD_CONSTRUCTORS \
@@ -76,6 +78,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
 	NeonMaze_Source_NeonMaze_NeonMazeGameModeBase_h_15_PRIVATE_PROPERTY_OFFSET \
+	NeonMaze_Source_NeonMaze_NeonMazeGameModeBase_h_15_SPARSE_DATA \
 	NeonMaze_Source_NeonMaze_NeonMazeGameModeBase_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
 	NeonMaze_Source_NeonMaze_NeonMazeGameModeBase_h_15_INCLASS_NO_PURE_DECLS \
 	NeonMaze_Source_NeonMaze_NeonMazeGameModeBase_h_15_ENHANCED_CONSTRUCTORS \

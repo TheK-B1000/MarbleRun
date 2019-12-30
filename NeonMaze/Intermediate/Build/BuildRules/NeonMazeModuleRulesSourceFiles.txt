@@ -1,3 +1,0 @@
-C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3\NeonMaze\Source\NeonMaze\NeonMaze.Build.cs
-C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3\NeonMaze\Source\NeonMaze.Target.cs
-C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3\NeonMaze\Source\NeonMazeEditor.Target.cs

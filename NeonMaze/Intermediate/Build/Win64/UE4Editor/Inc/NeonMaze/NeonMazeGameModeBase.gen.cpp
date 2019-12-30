@@ -52,18 +52,18 @@ void EmptyLinkFunctionForGeneratedCodeNeonMazeGameModeBase() {}
 	};
 	const UE4CodeGen_Private::FClassParams Z_Construct_UClass_ANeonMazeGameModeBase_Statics::ClassParams = {
 		&ANeonMazeGameModeBase::StaticClass,
-		nullptr,
+		"Game",
 		&StaticCppClassTypeInfo,
 		DependentSingletons,
 		nullptr,
 		nullptr,
 		nullptr,
-		ARRAY_COUNT(DependentSingletons),
+		UE_ARRAY_COUNT(DependentSingletons),
 		0,
 		0,
 		0,
-		0x009002A8u,
-		METADATA_PARAMS(Z_Construct_UClass_ANeonMazeGameModeBase_Statics::Class_MetaDataParams, ARRAY_COUNT(Z_Construct_UClass_ANeonMazeGameModeBase_Statics::Class_MetaDataParams))
+		0x009002ACu,
+		METADATA_PARAMS(Z_Construct_UClass_ANeonMazeGameModeBase_Statics::Class_MetaDataParams, UE_ARRAY_COUNT(Z_Construct_UClass_ANeonMazeGameModeBase_Statics::Class_MetaDataParams))
 	};
 	UClass* Z_Construct_UClass_ANeonMazeGameModeBase()
 	{
@@ -74,7 +74,7 @@ void EmptyLinkFunctionForGeneratedCodeNeonMazeGameModeBase() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(ANeonMazeGameModeBase, 3778032468);
+	IMPLEMENT_CLASS(ANeonMazeGameModeBase, 2641322244);
 	template<> NEONMAZE_API UClass* StaticClass<ANeonMazeGameModeBase>()
 	{
 		return ANeonMazeGameModeBase::StaticClass();
