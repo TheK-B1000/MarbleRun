@@ -1,7 +1,0 @@
-C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Game\NeonMaze\Intermediate\Build\Win64\UE4Editor\Development\NeonMaze\Definitions.NeonMaze.h
-C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Game\NeonMaze\Source\NeonMaze\NeonMazeGameModeBase.h
-C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
-C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
-C:\Program Files\Epic Games\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
-C:\Program Files\Epic Games\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
-C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Game\NeonMaze\Intermediate\Build\Win64\UE4Editor\Inc\NeonMaze\NeonMazeGameModeBase.generated.h

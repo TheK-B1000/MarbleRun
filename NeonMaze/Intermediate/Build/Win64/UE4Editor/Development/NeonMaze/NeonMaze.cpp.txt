@@ -1,2 +1,0 @@
-C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Game\NeonMaze\Intermediate\Build\Win64\UE4Editor\Development\NeonMaze\Definitions.NeonMaze.h
-C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Game\NeonMaze\Source\NeonMaze\NeonMaze.h
