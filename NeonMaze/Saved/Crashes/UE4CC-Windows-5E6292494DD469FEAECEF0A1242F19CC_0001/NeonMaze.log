@@ -1,0 +1,1280 @@
+﻿Log file open, 01/01/20 19:12:31
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: NeonMaze
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.526651
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Warning: Incompatible or missing module: NeonMaze
+Running C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe Development Win64 -Project="C:/Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/NeonMaze.uproject" -TargetType=Editor -Progress -NoHotReloadFromIDE
+WARNING: Trying to build an enterprise target but the enterprise directory is missing. Falling back on engine components only.
+Using 'git status' to determine working set for adaptive non-unity build (C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Game).
+Creating makefile for NeonMazeEditor (no existing makefile)
+@progress push 5%
+Parsing headers for NeonMazeEditor
+  Running UnrealHeaderTool "C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Game\NeonMaze\NeonMaze.uproject" "C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Game\NeonMaze\Intermediate\Build\Win64\NeonMazeEditor\Development\NeonMazeEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+Reflection code generated for NeonMazeEditor in 8.1616298 seconds
+@progress pop
+Building NeonMazeEditor...
+Using Visual Studio 2019 14.21.27619 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Preview\VC\Tools\MSVC\14.21.27619) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[Upgrade]
+[Upgrade] Using backward-compatible build settings. The latest version of UE4 sets the following values by default, which may require code changes:
+[Upgrade]     bLegacyPublicIncludePaths = false                 => Omits subfolders from public include paths to reduce compiler command line length. (Previously: true).
+[Upgrade]     ShadowVariableWarningLevel = WarningLevel.Error   => Treats shadowed variable warnings as errors. (Previously: WarningLevel.Warning).
+[Upgrade]     PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs   => Set in build.cs files to enables IWYU-style PCH model. See https://docs.unrealengine.com/en-US/Programming/BuildTools/UnrealBuildTool/IWYU/index.html. (Previously: PCHUsageMode.UseSharedPCHs).
+[Upgrade] Suppress this message by setting 'DefaultBuildSettings = BuildSettingsVersion.V2;' in NeonMazeEditor.Target.cs, and explicitly overriding settings that differ from the new defaults.
+[Upgrade]
+Building 9 actions with 4 processes...
+  @progress 'Compiling C++ source code...' 0%
+  @progress 'Compiling C++ source code...' 11%
+  [1/9] Default.rc2
+  @progress 'Compiling C++ source code...' 22%
+  [2/9] SharedPCH.Engine.cpp
+  @progress 'Compiling C++ source code...' 33%
+  [3/9] NeonMaze.init.gen.cpp
+  @progress 'Compiling C++ source code...' 44%
+  [4/9] NeonMaze.cpp
+  @progress 'Compiling C++ source code...' 56%
+  [5/9] NeonMazeGameModeBase.cpp
+  @progress 'Compiling C++ source code...' 67%
+  [6/9] NeonMazeGameModeBase.gen.cpp
+  @progress 'Compiling C++ source code...' 78%
+  [7/9] UE4Editor-NeonMaze.lib
+     Creating library C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Game\NeonMaze\Intermediate\Build\Win64\UE4Editor\Development\NeonMaze\UE4Editor-NeonMaze.lib and object C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Game\NeonMaze\Intermediate\Build\Win64\UE4Editor\Development\NeonMaze\UE4Editor-NeonMaze.exp
+  @progress 'Compiling C++ source code...' 89%
+  [8/9] UE4Editor-NeonMaze.dll
+     Creating library C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Game\NeonMaze\Intermediate\Build\Win64\UE4Editor\Development\NeonMaze\UE4Editor-NeonMaze.suppressed.lib and object C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Game\NeonMaze\Intermediate\Build\Win64\UE4Editor\Development\NeonMaze\UE4Editor-NeonMaze.suppressed.exp
+  @progress 'Compiling C++ source code...' 100%
+  [9/9] NeonMazeEditor.target
+Total time in Parallel executor: 47.27 seconds
+Total execution time: 60.10 seconds
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-10757647
+LogInit: Engine Version: 4.24.1-10757647+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i5-6300HQ CPU @ 2.30GHz, GPU: Intel(R) HD Graphics 530
+LogInit: Compiled (64-bit): Dec 17 2019 02:08:03
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.01.02-00.13.37:482][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.01.02-00.13.37:482][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.01.02-00.13.37:483][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Saved/Config/Windows/Engine.ini]
+[2020.01.02-00.13.37:483][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.01.02-00.13.37:483][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2020.01.02-00.13.37:483][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Saved/Config/Windows/Engine.ini]
+[2020.01.02-00.13.37:483][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Saved/Config/Windows/Engine.ini]
+[2020.01.02-00.13.37:483][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.01.02-00.13.37:483][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.01.02-00.13.37:483][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.01.02-00.13.37:483][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.01.02-00.13.37:483][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.01.02-00.13.37:483][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.01.02-00.13.37:483][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.01.02-00.13.37:483][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.01.02-00.13.37:483][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.01.02-00.13.37:483][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.01.02-00.13.37:484][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.01.02-00.13.37:484][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.01.02-00.13.37:484][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.01.02-00.13.37:484][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.01.02-00.13.37:484][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Saved/Config/Windows/Engine.ini]
+[2020.01.02-00.13.37:484][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.01.02-00.13.37:484][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.01.02-00.13.37:484][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.01.02-00.13.37:484][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.01.02-00.13.37:484][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.01.02-00.13.37:484][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.01.02-00.13.37:484][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.01.02-00.13.37:484][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.01.02-00.13.37:484][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.01.02-00.13.37:484][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.01.02-00.13.37:484][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.01.02-00.13.37:484][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.01.02-00.13.37:484][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.01.02-00.13.37:484][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Saved/Config/Windows/Engine.ini]
+[2020.01.02-00.13.37:484][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Saved/Config/Windows/Engine.ini]
+[2020.01.02-00.13.37:496][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Saved/Config/Windows/Scalability.ini]
+[2020.01.02-00.13.37:496][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.01.02-00.13.37:496][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.01.02-00.13.37:496][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Saved/Config/Windows/Scalability.ini]
+[2020.01.02-00.13.37:496][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.01.02-00.13.37:496][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Saved/Config/Windows/Scalability.ini]
+[2020.01.02-00.13.37:496][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.01.02-00.13.37:496][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.01.02-00.13.37:496][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.01.02-00.13.37:496][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.01.02-00.13.37:496][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.01.02-00.13.37:496][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.01.02-00.13.37:496][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.01.02-00.13.37:496][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.01.02-00.13.37:496][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.01.02-00.13.37:496][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.01.02-00.13.37:496][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.01.02-00.13.37:496][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.01.02-00.13.37:496][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.01.02-00.13.37:496][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.01.02-00.13.37:496][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.01.02-00.13.37:496][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.01.02-00.13.37:497][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.01.02-00.13.37:497][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.01.02-00.13.37:497][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Saved/Config/Windows/Scalability.ini]
+[2020.01.02-00.13.37:497][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.01.02-00.13.37:497][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.01.02-00.13.37:497][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.01.02-00.13.37:497][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.01.02-00.13.37:497][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.01.02-00.13.37:497][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.01.02-00.13.37:497][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.01.02-00.13.37:497][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.01.02-00.13.37:497][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.01.02-00.13.37:497][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.01.02-00.13.37:497][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.01.02-00.13.37:497][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.01.02-00.13.37:497][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.01.02-00.13.37:497][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.01.02-00.13.37:497][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.01.02-00.13.37:497][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.01.02-00.13.37:497][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.01.02-00.13.37:497][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.01.02-00.13.37:497][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.01.02-00.13.37:497][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.01.02-00.13.37:497][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.01.02-00.13.37:497][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.01.02-00.13.37:497][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.01.02-00.13.37:497][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.01.02-00.13.37:497][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.01.02-00.13.37:497][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.01.02-00.13.37:497][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.01.02-00.13.37:497][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.01.02-00.13.37:497][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.01.02-00.13.37:497][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.01.02-00.13.37:497][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Saved/Config/Windows/Scalability.ini]
+[2020.01.02-00.13.37:497][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.01.02-00.13.37:497][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.01.02-00.13.37:497][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.01.02-00.13.37:497][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.01.02-00.13.37:497][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.01.02-00.13.37:497][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.01.02-00.13.37:497][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.01.02-00.13.37:497][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.01.02-00.13.37:497][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.01.02-00.13.37:497][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Saved/Config/Windows/Scalability.ini]
+[2020.01.02-00.13.37:497][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.01.02-00.13.37:497][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.01.02-00.13.37:497][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.01.02-00.13.37:497][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.01.02-00.13.37:498][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.01.02-00.13.37:498][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.01.02-00.13.37:498][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.01.02-00.13.37:498][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.01.02-00.13.37:498][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.01.02-00.13.37:498][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.01.02-00.13.37:498][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.01.02-00.13.37:498][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.01.02-00.13.37:498][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.01.02-00.13.37:498][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.01.02-00.13.37:498][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.01.02-00.13.37:498][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.01.02-00.13.37:498][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.01.02-00.13.37:498][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.01.02-00.13.37:498][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.01.02-00.13.37:498][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.01.02-00.13.37:498][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.01.02-00.13.37:498][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.01.02-00.13.37:498][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.01.02-00.13.37:498][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.01.02-00.13.37:498][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.01.02-00.13.37:498][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.01.02-00.13.37:498][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Saved/Config/Windows/Scalability.ini]
+[2020.01.02-00.13.37:498][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.01.02-00.13.37:498][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.01.02-00.13.37:498][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Saved/Config/Windows/Scalability.ini]
+[2020.01.02-00.13.37:498][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.01.02-00.13.37:498][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.01.02-00.13.37:498][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.01.02-00.13.37:500][  0]LogInit: Selected Device Profile: [Windows]
+[2020.01.02-00.13.37:500][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.01.02-00.13.37:508][  0]LogHAL: Display: Platform has ~ 8 GB [8462237696 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.01.02-00.13.37:508][  0]LogInit: Going up to parent DeviceProfile []
+[2020.01.02-00.13.37:509][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Saved/Config/Windows/Scalability.ini]
+[2020.01.02-00.13.37:509][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.01.02-00.13.37:509][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.01.02-00.13.37:509][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Saved/Config/Windows/Scalability.ini]
+[2020.01.02-00.13.37:509][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.01.02-00.13.37:509][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Saved/Config/Windows/Scalability.ini]
+[2020.01.02-00.13.37:509][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.01.02-00.13.37:509][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.01.02-00.13.37:509][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.01.02-00.13.37:509][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.01.02-00.13.37:509][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.01.02-00.13.37:509][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.01.02-00.13.37:509][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.01.02-00.13.37:509][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.01.02-00.13.37:509][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.01.02-00.13.37:509][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.01.02-00.13.37:509][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.01.02-00.13.37:509][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.01.02-00.13.37:509][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.01.02-00.13.37:509][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.01.02-00.13.37:509][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.01.02-00.13.37:509][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.01.02-00.13.37:509][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.01.02-00.13.37:509][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.01.02-00.13.37:510][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Saved/Config/Windows/Scalability.ini]
+[2020.01.02-00.13.37:510][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.01.02-00.13.37:510][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.01.02-00.13.37:510][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.01.02-00.13.37:510][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.01.02-00.13.37:510][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.01.02-00.13.37:510][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.01.02-00.13.37:510][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.01.02-00.13.37:510][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.01.02-00.13.37:510][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.01.02-00.13.37:510][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.01.02-00.13.37:510][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.01.02-00.13.37:510][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.01.02-00.13.37:510][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.01.02-00.13.37:510][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.01.02-00.13.37:510][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.01.02-00.13.37:510][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.01.02-00.13.37:510][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.01.02-00.13.37:510][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.01.02-00.13.37:510][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.01.02-00.13.37:510][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.01.02-00.13.37:510][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.01.02-00.13.37:510][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.01.02-00.13.37:510][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.01.02-00.13.37:510][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.01.02-00.13.37:510][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.01.02-00.13.37:510][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.01.02-00.13.37:510][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.01.02-00.13.37:510][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.01.02-00.13.37:510][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.01.02-00.13.37:510][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.01.02-00.13.37:510][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Saved/Config/Windows/Scalability.ini]
+[2020.01.02-00.13.37:510][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.01.02-00.13.37:510][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.01.02-00.13.37:510][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.01.02-00.13.37:510][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.01.02-00.13.37:510][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.01.02-00.13.37:510][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.01.02-00.13.37:510][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.01.02-00.13.37:510][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.01.02-00.13.37:510][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.01.02-00.13.37:510][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Saved/Config/Windows/Scalability.ini]
+[2020.01.02-00.13.37:510][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.01.02-00.13.37:510][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.01.02-00.13.37:510][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.01.02-00.13.37:511][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.01.02-00.13.37:511][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.01.02-00.13.37:511][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.01.02-00.13.37:511][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.01.02-00.13.37:511][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.01.02-00.13.37:511][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.01.02-00.13.37:511][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.01.02-00.13.37:511][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.01.02-00.13.37:511][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.01.02-00.13.37:511][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.01.02-00.13.37:511][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.01.02-00.13.37:511][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.01.02-00.13.37:511][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.01.02-00.13.37:511][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.01.02-00.13.37:511][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.01.02-00.13.37:511][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.01.02-00.13.37:511][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.01.02-00.13.37:511][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.01.02-00.13.37:511][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.01.02-00.13.37:511][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.01.02-00.13.37:511][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.01.02-00.13.37:511][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.01.02-00.13.37:511][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.01.02-00.13.37:511][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Saved/Config/Windows/Scalability.ini]
+[2020.01.02-00.13.37:511][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.01.02-00.13.37:511][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.01.02-00.13.37:511][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Saved/Config/Windows/Scalability.ini]
+[2020.01.02-00.13.37:511][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.01.02-00.13.37:511][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.01.02-00.13.37:511][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.01.02-00.13.37:511][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.01.02-00.13.37:512][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.01.02-00.13.37:512][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.01.02-00.13.37:512][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Saved/Config/Windows/Engine.ini]
+[2020.01.02-00.13.37:514][  0]LogInit: Computer: LAPTOP-7TARG8CR
+[2020.01.02-00.13.37:514][  0]LogInit: User: TheKB1000
+[2020.01.02-00.13.37:514][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.01.02-00.13.37:514][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.01.02-00.13.37:515][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2020.01.02-00.13.37:515][  0]LogMemory: Platform Memory Stats for Windows
+[2020.01.02-00.13.37:515][  0]LogMemory: Process Physical Memory: 108.09 MB used, 108.10 MB peak
+[2020.01.02-00.13.37:515][  0]LogMemory: Process Virtual Memory: 100.20 MB used, 100.20 MB peak
+[2020.01.02-00.13.37:515][  0]LogMemory: Physical Memory: 5572.95 MB used,  2497.27 MB free, 8070.22 MB total
+[2020.01.02-00.13.37:515][  0]LogMemory: Virtual Memory: 5159.63 MB used,  134212568.00 MB free, 134217728.00 MB total
+[2020.01.02-00.13.37:523][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.01.02-00.13.37:765][  0]LogInit: Using OS detected language (en-US).
+[2020.01.02-00.13.37:765][  0]LogInit: Using OS detected locale (en-US).
+[2020.01.02-00.13.37:770][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.01.02-00.13.38:134][  0]LogInit: Setting process to per monitor DPI aware
+[2020.01.02-00.13.38:267][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.01.02-00.13.38:267][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.01.02-00.13.38:700][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.01.02-00.13.38:700][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.01.02-00.13.38:700][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.01.02-00.13.38:700][  0]LogD3D11RHI: D3D11 adapters:
+[2020.01.02-00.13.39:673][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 960M' (Feature Level 11_0)
+[2020.01.02-00.13.39:673][  0]LogD3D11RHI:       4055/0/4035 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.01.02-00.13.39:695][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2020.01.02-00.13.39:695][  0]LogD3D11RHI:       128/0/4035 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.01.02-00.13.39:711][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.01.02-00.13.39:711][  0]LogD3D11RHI:       0/0/4035 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.01.02-00.13.39:711][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.01.02-00.13.39:784][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.01.02-00.13.39:784][  0]LogD3D11RHI:     GPU DeviceId: 0x139b (for the marketing name, search the web for "GPU Device Id")
+[2020.01.02-00.13.39:784][  0]LogWindows: EnumDisplayDevices:
+[2020.01.02-00.13.39:784][  0]LogWindows:    0. 'Intel(R) HD Graphics 530' (P:1 D:1)
+[2020.01.02-00.13.39:784][  0]LogWindows:    1. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2020.01.02-00.13.39:786][  0]LogWindows:    2. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2020.01.02-00.13.39:786][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2020.01.02-00.13.39:786][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 960M
+[2020.01.02-00.13.39:787][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2020.01.02-00.13.39:787][  0]LogD3D11RHI:      Driver Date: Unknown
+[2020.01.02-00.13.39:787][  0]LogRHI: Texture pool is 2839 MB (70% of 4055 MB)
+[2020.01.02-00.13.39:868][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.01.02-00.13.39:869][  0]LogD3D11RHI: Async texture creation enabled
+[2020.01.02-00.13.39:921][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2020.01.02-00.13.40:535][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.01.02-00.13.40:582][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.01.02-00.13.40:582][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.01.02-00.13.40:582][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.01.02-00.13.40:582][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.01.02-00.13.40:582][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.01.02-00.13.40:582][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.01.02-00.13.40:582][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.01.02-00.13.40:582][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.01.02-00.13.40:582][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.01.02-00.13.40:582][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.01.02-00.13.40:582][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.01.02-00.13.40:582][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.01.02-00.13.40:582][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.01.02-00.13.40:582][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.01.02-00.13.40:582][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.01.02-00.13.40:582][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.01.02-00.13.40:582][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.01.02-00.13.40:582][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.01.02-00.13.40:622][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.01.02-00.13.40:622][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.01.02-00.13.40:636][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.01.02-00.13.40:649][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.01.02-00.13.40:662][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.01.02-00.13.40:676][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.01.02-00.13.40:690][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.01.02-00.13.40:704][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.01.02-00.13.40:742][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.01.02-00.13.40:742][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.01.02-00.13.40:765][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.01.02-00.13.40:765][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.01.02-00.13.40:780][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.01.02-00.13.40:795][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.01.02-00.13.40:810][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.01.02-00.13.40:824][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.01.02-00.13.40:824][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.01.02-00.13.40:846][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.01.02-00.13.41:012][  0]LogShaderCompilers: Guid format shader working directory is -34 characters bigger than the processId version (../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Intermediate/Shaders/WorkingDirectory/26228/).
+[2020.01.02-00.13.41:012][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/TheK-B1000/AppData/Local/Temp/UnrealShaderWorkingDir/1DCB1E9A4CACE0497AE7C0A69849871B/'.
+[2020.01.02-00.13.41:014][  0]LogXGEController: Cleaning working directory: C:/Users/TheK-B1000/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.01.02-00.13.41:015][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.01.02-00.13.41:015][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.01.02-00.13.41:015][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.01.02-00.13.42:414][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.01.02-00.13.42:884][  0]LogDerivedDataCache: Loaded boot cache 0.47s 81MB C:/Users/TheK-B1000/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.01.02-00.13.42:884][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/TheK-B1000/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.01.02-00.13.42:884][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.01.02-00.13.42:884][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.01.02-00.13.42:885][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.01.02-00.13.42:885][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.01.02-00.13.42:903][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.01.02-00.13.42:903][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.01.02-00.13.42:903][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.01.02-00.13.42:904][  0]LogDerivedDataCache: Using Local data cache path C:/Users/TheK-B1000/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.01.02-00.13.42:904][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.01.02-00.13.42:905][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.01.02-00.13.42:946][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.01.02-00.13.42:956][  0]LogSlate: Using FreeType 2.10.0
+[2020.01.02-00.13.42:963][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.01.02-00.13.43:164][  0]LogAssetRegistry: FAssetRegistry took 0.0090 seconds to start up
+[2020.01.02-00.13.44:013][  0]LogInit: Selected Device Profile: [Windows]
+[2020.01.02-00.13.44:567][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.01.02-00.13.44:567][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.01.02-00.13.44:567][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.01.02-00.13.44:567][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.01.02-00.13.44:567][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.01.02-00.13.44:636][  0]LogNetVersion: NeonMaze 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 3420459931)
+[2020.01.02-00.13.47:869][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.053754 seconds
+[2020.01.02-00.13.47:882][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
+[2020.01.02-00.13.47:882][  0]LogUObjectAllocator: 8137160 out of 0 bytes used by permanent object pool.
+[2020.01.02-00.13.47:882][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.01.02-00.13.49:444][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.01.02-00.13.49:499][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.01.02-00.13.49:797][  0]SourceControl: Source control is disabled
+[2020.01.02-00.13.49:798][  0]SourceControl: Source control is disabled
+[2020.01.02-00.13.49:813][  0]SourceControl: Source control is disabled
+[2020.01.02-00.13.49:827][  0]SourceControl: Source control is disabled
+[2020.01.02-00.13.49:837][  0]SourceControl: Source control is disabled
+[2020.01.02-00.13.50:335][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.01.02-00.13.50:402][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.01.02-00.13.50:402][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.01.02-00.13.50:652][  0]LogOcInput: OculusInput pre-init called
+[2020.01.02-00.13.50:779][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.01.02-00.13.50:779][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.01.02-00.13.51:000][  0]LogEngine: Initializing Engine...
+[2020.01.02-00.13.51:003][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.01.02-00.13.51:009][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.003 s
+[2020.01.02-00.13.51:564][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.01.02-00.13.51:670][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.01.02-00.13.51:734][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.01.02-00.13.51:734][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.01.02-00.13.51:734][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 256
+[2020.01.02-00.13.51:734][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  256
+[2020.01.02-00.13.51:734][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  7
+[2020.01.02-00.13.51:734][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.01.02-00.13.51:734][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.01.02-00.13.51:735][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.01.02-00.13.51:740][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.01.02-00.13.51:741][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.01.02-00.13.51:793][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.01.02-00.13.51:793][  0]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio)
+[2020.01.02-00.13.51:793][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.01.02-00.13.51:793][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2020.01.02-00.13.51:793][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2020.01.02-00.13.51:793][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2020.01.02-00.13.51:793][  0]LogAudioMixer: Display: Channel Order:
+[2020.01.02-00.13.51:793][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.01.02-00.13.51:793][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.01.02-00.13.52:426][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.01.02-00.13.52:440][  0]LogInit: FAudioDevice initialized.
+[2020.01.02-00.13.52:443][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.01.02-00.13.52:666][  0]LogDerivedDataCache: Saved boot cache 0.22s 81MB C:/Users/TheK-B1000/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.01.02-00.13.52:667][  0]LogInit: Texture streaming: Enabled
+[2020.01.02-00.13.52:760][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.01.02-00.13.52:764][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.01.02-00.13.52:780][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.01.02-00.13.52:876][  0]LogInit: Transaction tracking system initialized
+[2020.01.02-00.13.53:016][  0]BlueprintLog: New page: Editor Load
+[2020.01.02-00.13.53:367][  0]LocalizationService: Localization service is disabled
+[2020.01.02-00.13.53:569][  0]LogLinker: Warning: Failed to load '/Game/CloseCombat/CloseCombat_Greeting_Tutorial': Can't find file.
+[2020.01.02-00.13.53:569][  0]LogLinker: Warning: Failed to load '/Game/CloseCombat/CloseCombat_Greeting_Tutorial': Can't find file.
+[2020.01.02-00.13.53:569][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/CloseCombat/CloseCombat_Greeting_Tutorial.CloseCombat_Greeting_Tutorial_C'
+[2020.01.02-00.13.54:006][  0]LogFileCache: Scanning file cache for directory 'C:/Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/' took 0.00s
+[2020.01.02-00.13.54:006][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.01.02-00.13.54:006][  0]LogCook: Display: Mobile HDR setting 1
+[2020.01.02-00.13.55:370][  0]SourceControl: Source control is disabled
+[2020.01.02-00.13.55:372][  0]Cmd: MAP LOAD FILE="../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/Maps/Level_01.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.01.02-00.13.55:374][  0]LightingResults: New page: Lighting Build
+[2020.01.02-00.13.55:388][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.01.02-00.13.55:391][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.02-00.13.55:394][  0]MapCheck: New page: Map Check
+[2020.01.02-00.13.55:394][  0]LightingResults: New page: Lighting Build
+[2020.01.02-00.13.56:049][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2020.01.02-00.13.56:425][  0]LogAIModule: Creating AISystem for world Level_01
+[2020.01.02-00.13.56:490][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.01.02-00.13.57:446][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.77ms
+[2020.01.02-00.13.57:447][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.01.02-00.13.57:447][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.695ms to complete.
+[2020.01.02-00.13.57:447][  0]LogFileHelpers: Loading map 'Level_01' took 2.077
+[2020.01.02-00.13.57:731][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.02-00.13.57:743][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.02-00.13.57:754][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.02-00.13.57:767][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.02-00.13.57:806][  0]LogCollectionManager: Loaded 0 collections in 0.004578 seconds
+[2020.01.02-00.13.57:856][  0]LogFileCache: Scanning file cache for directory 'C:/Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Saved/Collections/' took 0.00s
+[2020.01.02-00.13.57:856][  0]LogFileCache: Scanning file cache for directory 'C:/Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/Developers/TheKB1000/Collections/' took 0.00s
+[2020.01.02-00.13.57:856][  0]LogFileCache: Scanning file cache for directory 'C:/Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/Collections/' took 0.00s
+[2020.01.02-00.13.57:856][  0]LogContentBrowser: Native class hierarchy populated in 0.0149 seconds. Added 3016 classes and 719 folders.
+[2020.01.02-00.13.57:874][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.01.02-00.13.58:167][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2020.01.02-00.13.58:194][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 2 classes and 3 folders.
+[2020.01.02-00.13.58:529][  0]LogSlate: Took 0.001534 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.01.02-00.13.58:539][  0]LogSlate: Took 0.002438 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.01.02-00.13.58:577][  0]LogSlate: Took 0.002261 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.01.02-00.13.58:741][  0]LogRenderer: Reallocating scene render targets to support 1032x480 Format 10 NumSamples 1 (Frame:1).
+[2020.01.02-00.13.59:012][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2020.01.02-00.13.59:012][  0]LogLoad: (Engine Initialization) Total time: 91.09 seconds
+[2020.01.02-00.13.59:012][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.01.02-00.13.59:093][  0]LogAssetRegistry: Asset discovery search completed in 15.9309 seconds
+[2020.01.02-00.13.59:102][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000803 seconds (updated 0 objects)
+[2020.01.02-00.13.59:112][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.01.02-00.13.59:154][  0]LogSlate: Took 0.001048 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.01.02-00.38.11:152][987]LogSlate: Took 0.000478 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.01.02-00.39.56:187][987]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.01.02-00.40.15:395][691]LogUObjectHash: Compacting FUObjectHashTables data took   5.39ms
+[2020.01.02-00.40.15:404][691]LogMetaData: Removing '/Game/BP_Maze_Back-Track.BP_Maze_Back-Track:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/NewBlueprint.PackageMetaData'
+[2020.01.02-00.40.15:404][691]LogMetaData: Removing '/Game/BP_Maze_Back-Track.SKEL_BP_Maze_Back-Track_C' ref from Metadata '/Game/NewBlueprint.PackageMetaData'
+[2020.01.02-00.40.15:404][691]LogMetaData: Removing '/Game/BP_Maze_Back-Track.BP_Maze_Back-Track_C' ref from Metadata '/Game/NewBlueprint.PackageMetaData'
+[2020.01.02-00.40.15:404][691]LogMetaData: Removing '/Game/BP_Maze_Back-Track.BP_Maze_Back-Track:EventGraph.K2Node_Event_0' ref from Metadata '/Game/NewBlueprint.PackageMetaData'
+[2020.01.02-00.40.15:404][691]LogMetaData: Removing '/Game/BP_Maze_Back-Track.BP_Maze_Back-Track:EventGraph.K2Node_Event_1' ref from Metadata '/Game/NewBlueprint.PackageMetaData'
+[2020.01.02-00.40.15:404][691]LogMetaData: Removing '/Game/BP_Maze_Back-Track.BP_Maze_Back-Track:EventGraph.K2Node_Event_2' ref from Metadata '/Game/NewBlueprint.PackageMetaData'
+[2020.01.02-00.40.15:457][691]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Maze_Back-Track" FILE="../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/BP_Maze_Back-Track.uasset" SILENT=true
+[2020.01.02-00.40.15:480][691]LogSavePackage: Moving '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Saved/BP_Maze_Back-TrackDCF6AF894962470B6E1FF7A5932EB580.tmp' to '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/BP_Maze_Back-Track.uasset'
+[2020.01.02-00.40.15:657][691]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2020.01.02-00.40.15:700][691]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2020.01.02-00.40.15:729][691]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2020.01.02-00.40.15:767][691]AssetCheck: New page: Asset Save: BP_Maze_Back-Track
+[2020.01.02-00.40.15:767][691]LogContentValidation: Display: Validating Blueprint /Game/BP_Maze_Back-Track.BP_Maze_Back-Track
+[2020.01.02-00.40.24:050][166]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2020.01.02-00.40.24:291][166]LogSavePackage: Moving '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Saved/Level_01160C533A4A4E882F98412096FA56D0C2.tmp' to '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/Maps/Level_01.umap'
+[2020.01.02-00.40.24:302][166]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_01_BuiltData" FILE="../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/Maps/Level_01_BuiltData.uasset" SILENT=true
+[2020.01.02-00.40.24:317][166]LogSavePackage: Moving '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Saved/Level_01_BuiltDataB17F998547CC882667712EBDCF45F639.tmp' to '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/Maps/Level_01_BuiltData.uasset'
+[2020.01.02-00.40.24:342][166]AssetCheck: New page: Asset Save: multiple assets
+[2020.01.02-00.40.24:342][166]LogContentValidation: Display: Validating World /Game/Maps/Level_01.Level_01
+[2020.01.02-00.40.24:342][166]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Level_01_BuiltData.Level_01_BuiltData
+[2020.01.02-00.43.18:171][212]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP_Maze_Back-Track.BP_Maze_Back-Track
+[2020.01.02-00.43.18:599][212]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0043 seconds. Added 121 classes and 0 folders.
+[2020.01.02-00.43.20:148][212]LogRenderer: Reallocating scene render targets to support 1032x520 Format 10 NumSamples 1 (Frame:1).
+[2020.01.02-00.43.21:850][265]LogSlate: Window 'BP_Maze_Back-Track' being destroyed
+[2020.01.02-00.43.33:704][677]LogSlate: Took 0.000978 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.01.02-00.44.47:127][680]LogSlate: Took 0.001475 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2020.01.02-00.45.09:427][498]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 C:/Program Files/Epic Games/UE_4.24/FeaturePacks/StarterContent.upack)
+[2020.01.02-00.45.09:448][498]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2020.01.02-00.45.09:450][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2020.01.02-00.45.09:451][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2020.01.02-00.45.09:454][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2020.01.02-00.45.09:455][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2020.01.02-00.45.09:456][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2020.01.02-00.45.09:458][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2020.01.02-00.45.09:459][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2020.01.02-00.45.09:460][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2020.01.02-00.45.09:461][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2020.01.02-00.45.09:462][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2020.01.02-00.45.09:464][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2020.01.02-00.45.09:468][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Audio/Collapse01.uasset"
+[2020.01.02-00.45.09:472][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Audio/Collapse02.uasset"
+[2020.01.02-00.45.09:473][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2020.01.02-00.45.09:475][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Audio/Explosion01.uasset"
+[2020.01.02-00.45.09:477][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Audio/Explosion02.uasset"
+[2020.01.02-00.45.09:478][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2020.01.02-00.45.09:481][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Audio/Fire01.uasset"
+[2020.01.02-00.45.09:482][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2020.01.02-00.45.09:486][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2020.01.02-00.45.09:487][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2020.01.02-00.45.09:489][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Audio/Light01.uasset"
+[2020.01.02-00.45.09:491][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2020.01.02-00.45.09:493][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Audio/Light02.uasset"
+[2020.01.02-00.45.09:494][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2020.01.02-00.45.09:497][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Audio/Smoke01.uasset"
+[2020.01.02-00.45.09:499][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2020.01.02-00.45.09:499][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2020.01.02-00.45.09:508][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2020.01.02-00.45.09:534][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2020.01.02-00.45.09:546][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2020.01.02-00.45.09:554][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2020.01.02-00.45.09:564][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2020.01.02-00.45.09:568][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Audio/Steam01.uasset"
+[2020.01.02-00.45.09:569][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2020.01.02-00.45.09:572][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2020.01.02-00.45.09:573][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2020.01.02-00.45.09:574][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2020.01.02-00.45.09:575][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2020.01.02-00.45.09:576][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2020.01.02-00.45.09:577][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2020.01.02-00.45.09:579][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2020.01.02-00.45.09:582][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2020.01.02-00.45.09:583][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2020.01.02-00.45.09:585][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2020.01.02-00.45.09:586][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2020.01.02-00.45.09:588][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2020.01.02-00.45.09:589][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2020.01.02-00.45.09:593][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2020.01.02-00.45.09:596][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2020.01.02-00.45.09:597][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2020.01.02-00.45.09:809][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2020.01.02-00.45.09:811][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2020.01.02-00.45.09:818][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2020.01.02-00.45.09:822][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Maps/Minimal_Default.umap"
+[2020.01.02-00.45.09:835][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2020.01.02-00.45.09:840][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Maps/StarterMap.umap"
+[2020.01.02-00.45.09:909][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2020.01.02-00.45.09:911][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2020.01.02-00.45.09:913][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2020.01.02-00.45.09:915][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2020.01.02-00.45.09:916][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2020.01.02-00.45.09:918][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2020.01.02-00.45.09:920][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2020.01.02-00.45.09:922][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2020.01.02-00.45.09:924][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2020.01.02-00.45.09:926][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2020.01.02-00.45.09:927][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2020.01.02-00.45.09:930][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2020.01.02-00.45.09:932][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2020.01.02-00.45.09:934][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2020.01.02-00.45.09:936][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2020.01.02-00.45.09:937][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2020.01.02-00.45.09:939][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2020.01.02-00.45.09:941][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2020.01.02-00.45.09:942][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Materials/M_Glass.uasset"
+[2020.01.02-00.45.09:944][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2020.01.02-00.45.09:947][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2020.01.02-00.45.09:952][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2020.01.02-00.45.09:956][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2020.01.02-00.45.09:998][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2020.01.02-00.45.10:010][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2020.01.02-00.45.10:022][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2020.01.02-00.45.10:056][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2020.01.02-00.45.10:078][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2020.01.02-00.45.10:129][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2020.01.02-00.45.10:149][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2020.01.02-00.45.10:157][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2020.01.02-00.45.10:161][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2020.01.02-00.45.10:167][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2020.01.02-00.45.10:169][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2020.01.02-00.45.10:171][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2020.01.02-00.45.10:174][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2020.01.02-00.45.10:176][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2020.01.02-00.45.10:177][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2020.01.02-00.45.10:179][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2020.01.02-00.45.10:182][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2020.01.02-00.45.10:185][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2020.01.02-00.45.10:190][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2020.01.02-00.45.10:191][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2020.01.02-00.45.10:198][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2020.01.02-00.45.10:200][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2020.01.02-00.45.10:202][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Particles/P_Explosion.uasset"
+[2020.01.02-00.45.10:205][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Particles/P_Fire.uasset"
+[2020.01.02-00.45.10:206][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Particles/P_Smoke.uasset"
+[2020.01.02-00.45.10:208][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Particles/P_Sparks.uasset"
+[2020.01.02-00.45.10:211][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2020.01.02-00.45.10:214][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2020.01.02-00.45.10:220][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2020.01.02-00.45.10:221][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2020.01.02-00.45.10:224][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2020.01.02-00.45.10:233][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2020.01.02-00.45.10:237][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2020.01.02-00.45.10:239][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2020.01.02-00.45.10:240][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2020.01.02-00.45.10:242][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2020.01.02-00.45.10:243][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2020.01.02-00.45.10:245][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Props/MaterialSphere.uasset"
+[2020.01.02-00.45.10:247][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Props/SM_Bush.uasset"
+[2020.01.02-00.45.10:250][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Props/SM_Chair.uasset"
+[2020.01.02-00.45.10:251][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2020.01.02-00.45.10:253][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Props/SM_Couch.uasset"
+[2020.01.02-00.45.10:257][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Props/SM_Door.uasset"
+[2020.01.02-00.45.10:258][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2020.01.02-00.45.10:261][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2020.01.02-00.45.10:266][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2020.01.02-00.45.10:269][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2020.01.02-00.45.10:279][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2020.01.02-00.45.10:281][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2020.01.02-00.45.10:282][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2020.01.02-00.45.10:284][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Props/SM_Rock.uasset"
+[2020.01.02-00.45.10:287][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Props/SM_Shelf.uasset"
+[2020.01.02-00.45.10:288][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Props/SM_Stairs.uasset"
+[2020.01.02-00.45.10:291][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Props/SM_Statue.uasset"
+[2020.01.02-00.45.10:299][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Props/SM_TableRound.uasset"
+[2020.01.02-00.45.10:300][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2020.01.02-00.45.10:306][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2020.01.02-00.45.10:308][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2020.01.02-00.45.10:311][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2020.01.02-00.45.10:312][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2020.01.02-00.45.10:314][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2020.01.02-00.45.10:315][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2020.01.02-00.45.10:316][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2020.01.02-00.45.10:318][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2020.01.02-00.45.10:319][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2020.01.02-00.45.10:320][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2020.01.02-00.45.10:322][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2020.01.02-00.45.10:323][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2020.01.02-00.45.10:325][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2020.01.02-00.45.10:327][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2020.01.02-00.45.10:329][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2020.01.02-00.45.10:334][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2020.01.02-00.45.10:335][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2020.01.02-00.45.10:337][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2020.01.02-00.45.10:339][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2020.01.02-00.45.10:340][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2020.01.02-00.45.10:342][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2020.01.02-00.45.10:344][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2020.01.02-00.45.10:348][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2020.01.02-00.45.10:349][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2020.01.02-00.45.10:350][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2020.01.02-00.45.10:352][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2020.01.02-00.45.10:353][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2020.01.02-00.45.10:355][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2020.01.02-00.45.10:356][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2020.01.02-00.45.10:366][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2020.01.02-00.45.10:369][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2020.01.02-00.45.10:399][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2020.01.02-00.45.10:444][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2020.01.02-00.45.10:545][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2020.01.02-00.45.10:598][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2020.01.02-00.45.10:628][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2020.01.02-00.45.10:659][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2020.01.02-00.45.10:715][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2020.01.02-00.45.10:756][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2020.01.02-00.45.10:809][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2020.01.02-00.45.10:852][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2020.01.02-00.45.10:885][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2020.01.02-00.45.10:917][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2020.01.02-00.45.10:959][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2020.01.02-00.45.10:961][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2020.01.02-00.45.10:964][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2020.01.02-00.45.10:967][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2020.01.02-00.45.10:974][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2020.01.02-00.45.10:981][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2020.01.02-00.45.10:986][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2020.01.02-00.45.10:996][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2020.01.02-00.45.10:997][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2020.01.02-00.45.11:039][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2020.01.02-00.45.11:050][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2020.01.02-00.45.11:099][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2020.01.02-00.45.11:109][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2020.01.02-00.45.11:123][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2020.01.02-00.45.11:154][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2020.01.02-00.45.11:182][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2020.01.02-00.45.11:222][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2020.01.02-00.45.11:270][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2020.01.02-00.45.11:310][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2020.01.02-00.45.11:399][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2020.01.02-00.45.11:668][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2020.01.02-00.45.11:750][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2020.01.02-00.45.11:832][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2020.01.02-00.45.11:920][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2020.01.02-00.45.12:121][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2020.01.02-00.45.12:132][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2020.01.02-00.45.12:193][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2020.01.02-00.45.12:245][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Textures/T_Door_M.uasset"
+[2020.01.02-00.45.12:308][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Textures/T_Door_N.uasset"
+[2020.01.02-00.45.12:317][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2020.01.02-00.45.12:384][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2020.01.02-00.45.12:407][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2020.01.02-00.45.12:501][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2020.01.02-00.45.12:528][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2020.01.02-00.45.12:594][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2020.01.02-00.45.12:619][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2020.01.02-00.45.12:771][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2020.01.02-00.45.12:829][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2020.01.02-00.45.12:870][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2020.01.02-00.45.12:898][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2020.01.02-00.45.12:941][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2020.01.02-00.45.12:970][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2020.01.02-00.45.12:980][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2020.01.02-00.45.12:989][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2020.01.02-00.45.13:020][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2020.01.02-00.45.13:049][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2020.01.02-00.45.13:077][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2020.01.02-00.45.13:105][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2020.01.02-00.45.13:115][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2020.01.02-00.45.13:145][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2020.01.02-00.45.13:172][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2020.01.02-00.45.13:184][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2020.01.02-00.45.13:203][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2020.01.02-00.45.13:226][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2020.01.02-00.45.13:236][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2020.01.02-00.45.13:254][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2020.01.02-00.45.13:282][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2020.01.02-00.45.13:309][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2020.01.02-00.45.13:331][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2020.01.02-00.45.13:380][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2020.01.02-00.45.13:480][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2020.01.02-00.45.13:788][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2020.01.02-00.45.14:108][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2020.01.02-00.45.14:264][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2020.01.02-00.45.14:372][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2020.01.02-00.45.14:439][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2020.01.02-00.45.14:475][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2020.01.02-00.45.14:577][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2020.01.02-00.45.14:626][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2020.01.02-00.45.14:674][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2020.01.02-00.45.14:736][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2020.01.02-00.45.14:752][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2020.01.02-00.45.14:840][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2020.01.02-00.45.14:852][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2020.01.02-00.45.14:853][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2020.01.02-00.45.14:855][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2020.01.02-00.45.14:860][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2020.01.02-00.45.14:863][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2020.01.02-00.45.14:868][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2020.01.02-00.45.14:877][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2020.01.02-00.45.14:884][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Textures/T_Water_M.uasset"
+[2020.01.02-00.45.14:893][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Textures/T_Water_N.uasset"
+[2020.01.02-00.45.14:908][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2020.01.02-00.45.14:921][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2020.01.02-00.45.14:931][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2020.01.02-00.45.14:951][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2020.01.02-00.45.14:972][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2020.01.02-00.45.15:005][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2020.01.02-00.45.15:018][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2020.01.02-00.45.15:039][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2020.01.02-00.45.15:052][498]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2020.01.02-00.45.15:093][498]LogStaticMesh: Building static mesh Floor_400x400...
+[2020.01.02-00.45.15:097][498]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2020.01.02-00.45.15:250][498]LogSavePackage: Moving '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Saved/Floor_400x400BC978A9F40FD9F86BD95668B7E6494E0.tmp' to '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2020.01.02-00.45.15:274][498]AssetCheck: New page: Asset Save: Floor_400x400
+[2020.01.02-00.45.15:274][498]LogContentValidation: Display: Validating StaticMesh /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2020.01.02-00.45.58:111][959]LogSlate: Window 'Add Content to the Project' being destroyed
+[2020.01.02-00.47.01:870][711]BlueprintLog: New page: Compile BP_Maze_Back-Track
+[2020.01.02-00.47.02:317][711]LogUObjectHash: Compacting FUObjectHashTables data took   7.75ms
+[2020.01.02-00.47.02:684][723]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Maze_Back-Track" FILE="../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/BP_Maze_Back-Track.uasset" SILENT=true
+[2020.01.02-00.47.02:700][723]LogSavePackage: Moving '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Saved/BP_Maze_Back-TrackB4FE403143CFDF3E26CE5C91F76076FA.tmp' to '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/BP_Maze_Back-Track.uasset'
+[2020.01.02-00.47.02:718][723]AssetCheck: New page: Asset Save: BP_Maze_Back-Track
+[2020.01.02-00.47.02:718][723]LogContentValidation: Display: Validating Blueprint /Game/BP_Maze_Back-Track.BP_Maze_Back-Track
+[2020.01.02-00.47.58:492][504]LogSlate: Took 0.001319 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.01.02-00.52.24:460][232]LogSlate: Took 0.000996 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.01.02-00.53.07:792][850]BlueprintLog: New page: Compile BP_Maze_Back-Track
+[2020.01.02-00.53.08:163][850]LogUObjectHash: Compacting FUObjectHashTables data took   5.48ms
+[2020.01.02-00.53.08:416][859]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Maze_Back-Track" FILE="../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/BP_Maze_Back-Track.uasset" SILENT=true
+[2020.01.02-00.53.08:436][859]LogSavePackage: Moving '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Saved/BP_Maze_Back-Track045FEAF649899F15F1A2298A9F9933AB.tmp' to '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/BP_Maze_Back-Track.uasset'
+[2020.01.02-00.53.08:459][859]AssetCheck: New page: Asset Save: BP_Maze_Back-Track
+[2020.01.02-00.53.08:459][859]LogContentValidation: Display: Validating Blueprint /Game/BP_Maze_Back-Track.BP_Maze_Back-Track
+[2020.01.02-00.54.37:154][907]LogEditorTransaction: Undo Promote To Variable
+[2020.01.02-00.54.44:095][290]BlueprintLog: New page: Compile BP_Maze_Back-Track
+[2020.01.02-00.54.44:377][290]LogUObjectHash: Compacting FUObjectHashTables data took   5.65ms
+[2020.01.02-00.54.44:683][303]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Maze_Back-Track" FILE="../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/BP_Maze_Back-Track.uasset" SILENT=true
+[2020.01.02-00.54.44:701][303]LogSavePackage: Moving '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Saved/BP_Maze_Back-Track3D4E07884FD6C0594A94898992E27176.tmp' to '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/BP_Maze_Back-Track.uasset'
+[2020.01.02-00.54.44:719][303]AssetCheck: New page: Asset Save: BP_Maze_Back-Track
+[2020.01.02-00.54.44:719][303]LogContentValidation: Display: Validating Blueprint /Game/BP_Maze_Back-Track.BP_Maze_Back-Track
+[2020.01.02-00.56.34:606][541]BlueprintLog: New page: Compile BP_Maze_Back-Track
+[2020.01.02-00.56.34:918][541]LogUObjectHash: Compacting FUObjectHashTables data took   5.12ms
+[2020.01.02-00.56.35:205][554]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Maze_Back-Track" FILE="../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/BP_Maze_Back-Track.uasset" SILENT=true
+[2020.01.02-00.56.35:225][554]LogSavePackage: Moving '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Saved/BP_Maze_Back-TrackB02CB23249EBBDFF76307FA8791DFA34.tmp' to '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/BP_Maze_Back-Track.uasset'
+[2020.01.02-00.56.35:247][554]AssetCheck: New page: Asset Save: BP_Maze_Back-Track
+[2020.01.02-00.56.35:247][554]LogContentValidation: Display: Validating Blueprint /Game/BP_Maze_Back-Track.BP_Maze_Back-Track
+[2020.01.02-00.56.49:241][171]LogEditorTransaction: Undo Move Node
+[2020.01.02-00.57.03:402][852]BlueprintLog: New page: Compile BP_Maze_Back-Track
+[2020.01.02-00.57.03:697][852]LogUObjectHash: Compacting FUObjectHashTables data took   5.42ms
+[2020.01.02-00.57.03:997][864]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Maze_Back-Track" FILE="../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/BP_Maze_Back-Track.uasset" SILENT=true
+[2020.01.02-00.57.04:017][864]LogSavePackage: Moving '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Saved/BP_Maze_Back-Track7EF44712416B143E866549B19DD866E1.tmp' to '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/BP_Maze_Back-Track.uasset'
+[2020.01.02-00.57.04:039][864]AssetCheck: New page: Asset Save: BP_Maze_Back-Track
+[2020.01.02-00.57.04:039][864]LogContentValidation: Display: Validating Blueprint /Game/BP_Maze_Back-Track.BP_Maze_Back-Track
+[2020.01.02-01.01.28:705][990]LogUObjectHash: Compacting FUObjectHashTables data took   5.05ms
+[2020.01.02-01.01.28:717][990]LogMetaData: Removing '/Game/BP_Maze_BackTrack.BP_Maze_BackTrack_C' ref from Metadata '/Game/BP_Maze_Back-Track.PackageMetaData'
+[2020.01.02-01.01.28:717][990]LogMetaData: Removing '/Game/BP_Maze_BackTrack.SKEL_BP_Maze_BackTrack_C' ref from Metadata '/Game/BP_Maze_Back-Track.PackageMetaData'
+[2020.01.02-01.01.28:717][990]LogMetaData: Removing '/Game/BP_Maze_BackTrack.BP_Maze_BackTrack:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/BP_Maze_Back-Track.PackageMetaData'
+[2020.01.02-01.01.28:717][990]LogMetaData: Removing '/Game/BP_Maze_BackTrack.BP_Maze_BackTrack:EventGraph.K2Node_Event_0' ref from Metadata '/Game/BP_Maze_Back-Track.PackageMetaData'
+[2020.01.02-01.01.28:717][990]LogMetaData: Removing '/Game/BP_Maze_BackTrack.BP_Maze_BackTrack:EventGraph.K2Node_Event_1' ref from Metadata '/Game/BP_Maze_Back-Track.PackageMetaData'
+[2020.01.02-01.01.28:717][990]LogMetaData: Removing '/Game/BP_Maze_BackTrack.BP_Maze_BackTrack:EventGraph.K2Node_Event_2' ref from Metadata '/Game/BP_Maze_Back-Track.PackageMetaData'
+[2020.01.02-01.01.28:717][990]LogMetaData: Removing '/Game/BP_Maze_BackTrack.BP_Maze_BackTrack:PopulateBorder.K2Node_FunctionEntry_0' ref from Metadata '/Game/BP_Maze_Back-Track.PackageMetaData'
+[2020.01.02-01.01.28:823][990]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Maze_BackTrack" FILE="../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/BP_Maze_BackTrack.uasset" SILENT=true
+[2020.01.02-01.01.28:843][990]LogSavePackage: Moving '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Saved/BP_Maze_BackTrack59087DF944C5EEA96883039EE45B933D.tmp' to '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/BP_Maze_BackTrack.uasset'
+[2020.01.02-01.01.29:228][990]LogUObjectHash: Compacting FUObjectHashTables data took   5.05ms
+[2020.01.02-01.01.29:285][990]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2020.01.02-01.01.29:326][990]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2020.01.02-01.01.29:368][990]AssetCheck: New page: Asset Save: BP_Maze_BackTrack
+[2020.01.02-01.01.29:368][990]LogContentValidation: Display: Validating Blueprint /Game/BP_Maze_BackTrack.BP_Maze_BackTrack
+[2020.01.02-01.02.02:663][527]LogEditorTransaction: Undo Add Node
+[2020.01.02-01.03.47:613][503]BlueprintLog: New page: Compile BP_Maze_BackTrack
+[2020.01.02-01.03.47:937][503]LogUObjectHash: Compacting FUObjectHashTables data took   6.03ms
+[2020.01.02-01.03.48:155][509]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Maze_BackTrack" FILE="../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/BP_Maze_BackTrack.uasset" SILENT=true
+[2020.01.02-01.03.48:181][509]LogSavePackage: Moving '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Saved/BP_Maze_BackTrack2742F0E8474DA094D77D91A1337CB2E1.tmp' to '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/BP_Maze_BackTrack.uasset'
+[2020.01.02-01.03.48:201][509]AssetCheck: New page: Asset Save: BP_Maze_BackTrack
+[2020.01.02-01.03.48:201][509]LogContentValidation: Display: Validating Blueprint /Game/BP_Maze_BackTrack.BP_Maze_BackTrack
+[2020.01.02-01.03.57:508][933]LogEditorTransaction: Undo Add Node
+[2020.01.02-01.04.43:080][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   5.71ms
+[2020.01.02-01.04.43:081][ 75]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level_01' took 0.066
+[2020.01.02-01.04.43:082][ 75]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BP_Maze_BackTrack] ([1] browsable assets)...
+[2020.01.02-01.04.43:125][ 75]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP_Maze_BackTrack.BP_Maze_BackTrack]
+[2020.01.02-01.04.43:125][ 75]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_Maze_BackTrack]
+[2020.01.02-01.04.43:160][ 75]LogSavePackage: Moving '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Saved/BP_Maze_BackTrack_Auto15BC6E55B4ED9190DDD5662938B6E5E04.tmp' to '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Saved/Autosaves/Game/BP_Maze_BackTrack_Auto1.uasset'
+[2020.01.02-01.04.43:164][ 75]LogFileHelpers: Auto-saving content packages took 0.083
+[2020.01.02-01.05.13:670][648]LogEditorTransaction: Undo Move Node
+[2020.01.02-01.12.20:052][269]LogHttp: Warning: 000001B01A9C7C40: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6BC81D6D-4D8B-5A2D-CB16-0081388368AF%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.1-10757647%2B%2B%2BUE4%2BRelease-4.24&UserID=9fac42f04d0bf86c7c77a38461b5dbfe%7Cb17b9a24caaf4b22beb43e36ae37cc22%7C1aadf357-618d-45b7-89b5-366b54ee33e8&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.01.02-01.12.20:052][269]LogHttp: Warning: 000001B01A9C7C40: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2020.01.02-01.12.20:052][269]LogHttp: Warning: 000001B01A9C7C40: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1aff661bf70 [can pipeline])
+[2020.01.02-01.12.20:052][269]LogHttp: Warning: 000001B01A9C7C40: libcurl info message cache 1 (Re-using existing connection! (#23) with host datarouter.ol.epicgames.com)
+[2020.01.02-01.12.20:052][269]LogHttp: Warning: 000001B01A9C7C40: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (3.82.255.212) port 443 (#23))
+[2020.01.02-01.12.20:052][269]LogHttp: Warning: 000001B01A9C7C40: libcurl info message cache 3 (We are completely uploaded and fine)
+[2020.01.02-01.12.20:052][269]LogHttp: Warning: 000001B01A9C7C40: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2020.01.02-01.12.20:054][269]LogHttp: Warning: 000001B01A9C7C40: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2020.01.02-01.12.20:054][269]LogHttp: Warning: 000001B01A9C7C40: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2020.01.02-01.12.20:056][269]LogHttp: Warning: 000001B01A9C7C40: libcurl info message cache 7 (Closing connection 23)
+[2020.01.02-01.12.21:770][270]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6BC81D6D-4D8B-5A2D-CB16-0081388368AF%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.1-10757647%2B%2B%2BUE4%2BRelease-4.24&UserID=9fac42f04d0bf86c7c77a38461b5dbfe%7Cb17b9a24caaf4b22beb43e36ae37cc22%7C1aadf357-618d-45b7-89b5-366b54ee33e8&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.01.02-01.13.54:751][348]BlueprintLog: New page: Compile BP_Maze_BackTrack
+[2020.01.02-01.13.55:049][348]LogUObjectHash: Compacting FUObjectHashTables data took   5.67ms
+[2020.01.02-01.13.55:410][364]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Maze_BackTrack" FILE="../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/BP_Maze_BackTrack.uasset" SILENT=true
+[2020.01.02-01.13.55:444][364]LogSavePackage: Moving '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Saved/BP_Maze_BackTrack7566B3F74A13FBB0A5E9D8826C07259C.tmp' to '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/BP_Maze_BackTrack.uasset'
+[2020.01.02-01.13.55:469][364]AssetCheck: New page: Asset Save: BP_Maze_BackTrack
+[2020.01.02-01.13.55:470][364]LogContentValidation: Display: Validating Blueprint /Game/BP_Maze_BackTrack.BP_Maze_BackTrack
+[2020.01.02-01.14.43:591][705]LogUObjectHash: Compacting FUObjectHashTables data took   9.44ms
+[2020.01.02-01.14.43:592][705]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level_01' took 0.083
+[2020.01.02-01.14.43:592][705]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BP_Maze_BackTrack] ([1] browsable assets)...
+[2020.01.02-01.14.43:638][705]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP_Maze_BackTrack.BP_Maze_BackTrack]
+[2020.01.02-01.14.43:638][705]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_Maze_BackTrack]
+[2020.01.02-01.14.43:675][705]LogSavePackage: Moving '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Saved/BP_Maze_BackTrack_Auto2727B1BFD4977019A066E85B4AC852C42.tmp' to '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Saved/Autosaves/Game/BP_Maze_BackTrack_Auto2.uasset'
+[2020.01.02-01.14.43:677][705]LogFileHelpers: Auto-saving content packages took 0.086
+[2020.01.02-01.17.46:789][464]BlueprintLog: New page: Compile BP_Maze_BackTrack
+[2020.01.02-01.17.47:090][464]LogUObjectHash: Compacting FUObjectHashTables data took   5.70ms
+[2020.01.02-01.17.47:438][474]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Maze_BackTrack" FILE="../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/BP_Maze_BackTrack.uasset" SILENT=true
+[2020.01.02-01.17.47:468][474]LogSavePackage: Moving '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Saved/BP_Maze_BackTrackBF269B86435CE0AF117B74A96B67AFB6.tmp' to '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/BP_Maze_BackTrack.uasset'
+[2020.01.02-01.17.47:490][474]AssetCheck: New page: Asset Save: BP_Maze_BackTrack
+[2020.01.02-01.17.47:490][474]LogContentValidation: Display: Validating Blueprint /Game/BP_Maze_BackTrack.BP_Maze_BackTrack
+[2020.01.02-01.18.01:382][207]LogWindows: LaunchURL http://docs.unrealengine.com/latest/INT/Engine/Blueprints/index.html?utm_source=editor&utm_medium=docs&utm_campaign=help_menu_asset
+[2020.01.02-01.19.03:448][228]BlueprintLog: New page: Compile BP_Maze_BackTrack
+[2020.01.02-01.19.03:745][228]LogUObjectHash: Compacting FUObjectHashTables data took   5.16ms
+[2020.01.02-01.19.04:257][250]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Maze_BackTrack" FILE="../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/BP_Maze_BackTrack.uasset" SILENT=true
+[2020.01.02-01.19.04:290][250]LogSavePackage: Moving '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Saved/BP_Maze_BackTrack26FC3843476FA853690DDDB47143E6A9.tmp' to '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/BP_Maze_BackTrack.uasset'
+[2020.01.02-01.19.04:312][250]AssetCheck: New page: Asset Save: BP_Maze_BackTrack
+[2020.01.02-01.19.04:312][250]LogContentValidation: Display: Validating Blueprint /Game/BP_Maze_BackTrack.BP_Maze_BackTrack
+[2020.01.02-01.19.28:870][ 57]BlueprintLog: New page: Compile BP_Maze_BackTrack
+[2020.01.02-01.19.28:878][ 57]LogBlueprint: Error: [Compiler BP_Maze_BackTrack] The current value of the ' Target Array ' pin is invalid: Array inputs (like 'Target Array') must have an input wired into them (try connecting a MakeArray node).
+[2020.01.02-01.19.28:878][ 57]LogBlueprint: Error: [Compiler BP_Maze_BackTrack] The current value of the ' Target Array ' pin is invalid: Array inputs (like 'Target Array') must have an input wired into them (try connecting a MakeArray node).
+[2020.01.02-01.19.28:878][ 57]LogBlueprint: Error: [Compiler BP_Maze_BackTrack] The current value of the ' Target Array ' pin is invalid: Array inputs (like 'Target Array') must have an input wired into them (try connecting a MakeArray node).
+[2020.01.02-01.19.29:172][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   5.09ms
+[2020.01.02-01.19.29:382][ 63]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Maze_BackTrack" FILE="../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/BP_Maze_BackTrack.uasset" SILENT=true
+[2020.01.02-01.19.29:415][ 63]LogSavePackage: Moving '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Saved/BP_Maze_BackTrackA58D020E46186DA431B33BB07454C545.tmp' to '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/BP_Maze_BackTrack.uasset'
+[2020.01.02-01.19.29:437][ 63]AssetCheck: New page: Asset Save: BP_Maze_BackTrack
+[2020.01.02-01.19.29:437][ 63]LogContentValidation: Display: Validating Blueprint /Game/BP_Maze_BackTrack.BP_Maze_BackTrack
+[2020.01.02-01.19.40:184][451]LogEditorTransaction: Undo Move Node
+[2020.01.02-01.19.47:854][882]LogEditorTransaction: Undo Move Node
+[2020.01.02-01.19.53:251][166]LogEditorTransaction: Undo Move Node
+[2020.01.02-01.20.07:363][962]BlueprintLog: New page: Compile BP_Maze_BackTrack
+[2020.01.02-01.20.07:671][962]LogUObjectHash: Compacting FUObjectHashTables data took   5.42ms
+[2020.01.02-01.20.08:078][979]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Maze_BackTrack" FILE="../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/BP_Maze_BackTrack.uasset" SILENT=true
+[2020.01.02-01.20.08:110][979]LogSavePackage: Moving '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Saved/BP_Maze_BackTrack5BDD6BE84A90661C167BA4AEEBB2791D.tmp' to '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/BP_Maze_BackTrack.uasset'
+[2020.01.02-01.20.08:132][979]AssetCheck: New page: Asset Save: BP_Maze_BackTrack
+[2020.01.02-01.20.08:132][979]LogContentValidation: Display: Validating Blueprint /Game/BP_Maze_BackTrack.BP_Maze_BackTrack
+[2020.01.02-01.23.48:154][272]BlueprintLog: New page: Compile BP_Maze_BackTrack
+[2020.01.02-01.23.48:576][272]LogUObjectHash: Compacting FUObjectHashTables data took   5.81ms
+[2020.01.02-01.23.48:870][277]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Maze_BackTrack" FILE="../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/BP_Maze_BackTrack.uasset" SILENT=true
+[2020.01.02-01.23.48:908][277]LogSavePackage: Moving '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Saved/BP_Maze_BackTrack50B66F504304AC7A523EBB8E33409CB7.tmp' to '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/BP_Maze_BackTrack.uasset'
+[2020.01.02-01.23.48:936][277]AssetCheck: New page: Asset Save: BP_Maze_BackTrack
+[2020.01.02-01.23.48:936][277]LogContentValidation: Display: Validating Blueprint /Game/BP_Maze_BackTrack.BP_Maze_BackTrack
+[2020.01.02-01.26.04:670][301]BlueprintLog: New page: Compile BP_Maze_BackTrack
+[2020.01.02-01.26.04:676][301]LogBlueprint: Error: [Compiler BP_Maze_BackTrack] The current value of the ' Border Array ' pin is invalid: Array inputs (like 'Border Array') must have an input wired into them (try connecting a MakeArray node).
+[2020.01.02-01.26.04:992][301]LogUObjectHash: Compacting FUObjectHashTables data took   5.53ms
+[2020.01.02-01.26.05:613][332]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Maze_BackTrack" FILE="../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/BP_Maze_BackTrack.uasset" SILENT=true
+[2020.01.02-01.26.05:648][332]LogSavePackage: Moving '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Saved/BP_Maze_BackTrack39A1E6384A3985D0BA88558AE8DB7F96.tmp' to '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/BP_Maze_BackTrack.uasset'
+[2020.01.02-01.26.05:671][332]AssetCheck: New page: Asset Save: BP_Maze_BackTrack
+[2020.01.02-01.26.05:671][332]LogContentValidation: Display: Validating Blueprint /Game/BP_Maze_BackTrack.BP_Maze_BackTrack
+[2020.01.02-01.26.09:685][564]BlueprintLog: New page: Compile BP_Maze_BackTrack
+[2020.01.02-01.26.09:692][564]LogBlueprint: Error: [Compiler BP_Maze_BackTrack] The current value of the ' Border Array ' pin is invalid: Array inputs (like 'Border Array') must have an input wired into them (try connecting a MakeArray node).
+[2020.01.02-01.26.09:981][564]LogUObjectHash: Compacting FUObjectHashTables data took   5.16ms
+[2020.01.02-01.26.10:356][581]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Maze_BackTrack" FILE="../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/BP_Maze_BackTrack.uasset" SILENT=true
+[2020.01.02-01.26.10:388][581]LogSavePackage: Moving '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Saved/BP_Maze_BackTrack530C63454A2173548A334BB2E5EBACCB.tmp' to '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/BP_Maze_BackTrack.uasset'
+[2020.01.02-01.26.10:412][581]AssetCheck: New page: Asset Save: BP_Maze_BackTrack
+[2020.01.02-01.26.10:413][581]LogContentValidation: Display: Validating Blueprint /Game/BP_Maze_BackTrack.BP_Maze_BackTrack
+[2020.01.02-01.26.40:208][809]BlueprintLog: New page: Compile BP_Maze_BackTrack
+[2020.01.02-01.26.40:515][809]LogUObjectHash: Compacting FUObjectHashTables data took   4.87ms
+[2020.01.02-01.26.41:382][854]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Maze_BackTrack" FILE="../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/BP_Maze_BackTrack.uasset" SILENT=true
+[2020.01.02-01.26.41:414][854]LogSavePackage: Moving '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Saved/BP_Maze_BackTrack051BAC2946D4358D353939B0C87F34F5.tmp' to '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/BP_Maze_BackTrack.uasset'
+[2020.01.02-01.26.41:435][854]AssetCheck: New page: Asset Save: BP_Maze_BackTrack
+[2020.01.02-01.26.41:435][854]LogContentValidation: Display: Validating Blueprint /Game/BP_Maze_BackTrack.BP_Maze_BackTrack
+[2020.01.02-01.27.04:441][247]LogBlueprint: Warning: [Compiler BP_Maze_BackTrack] Variable BoarderTiles is marked as 'Expose on Spawn' but not marked as 'Editable'; please make it 'Editable'
+[2020.01.02-01.27.07:788][431]LogBlueprint: Warning: [Compiler BP_Maze_BackTrack] Variable BoarderTiles is marked as 'Expose on Spawn' but not marked as 'Editable'; please make it 'Editable'
+[2020.01.02-01.27.11:428][618]BlueprintLog: New page: Compile BP_Maze_BackTrack
+[2020.01.02-01.27.11:732][618]LogUObjectHash: Compacting FUObjectHashTables data took   4.96ms
+[2020.01.02-01.27.11:980][625]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Maze_BackTrack" FILE="../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/BP_Maze_BackTrack.uasset" SILENT=true
+[2020.01.02-01.27.12:013][625]LogSavePackage: Moving '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Saved/BP_Maze_BackTrackBC52C28C471A84E45EC351A7AC7D4788.tmp' to '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/BP_Maze_BackTrack.uasset'
+[2020.01.02-01.27.12:036][625]AssetCheck: New page: Asset Save: BP_Maze_BackTrack
+[2020.01.02-01.27.12:036][625]LogContentValidation: Display: Validating Blueprint /Game/BP_Maze_BackTrack.BP_Maze_BackTrack
+[2020.01.02-01.30.20:333][706]BlueprintLog: New page: Compile BP_Maze_BackTrack
+[2020.01.02-01.30.20:647][706]LogUObjectHash: Compacting FUObjectHashTables data took   5.58ms
+[2020.01.02-01.30.20:965][719]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Maze_BackTrack" FILE="../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/BP_Maze_BackTrack.uasset" SILENT=true
+[2020.01.02-01.30.20:996][719]LogSavePackage: Moving '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Saved/BP_Maze_BackTrackDC8D7448437D14289FE9029D22FC6402.tmp' to '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/BP_Maze_BackTrack.uasset'
+[2020.01.02-01.30.21:020][719]AssetCheck: New page: Asset Save: BP_Maze_BackTrack
+[2020.01.02-01.30.21:020][719]LogContentValidation: Display: Validating Blueprint /Game/BP_Maze_BackTrack.BP_Maze_BackTrack
+[2020.01.02-01.30.53:740][228]BlueprintLog: New page: Compile BP_Maze_BackTrack
+[2020.01.02-01.30.54:079][228]LogUObjectHash: Compacting FUObjectHashTables data took   5.08ms
+[2020.01.02-01.30.54:394][238]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Maze_BackTrack" FILE="../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/BP_Maze_BackTrack.uasset" SILENT=true
+[2020.01.02-01.30.54:425][238]LogSavePackage: Moving '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Saved/BP_Maze_BackTrack03FE945542C884C7D3A043823C8387A3.tmp' to '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/BP_Maze_BackTrack.uasset'
+[2020.01.02-01.30.54:446][238]AssetCheck: New page: Asset Save: BP_Maze_BackTrack
+[2020.01.02-01.30.54:446][238]LogContentValidation: Display: Validating Blueprint /Game/BP_Maze_BackTrack.BP_Maze_BackTrack
+[2020.01.02-01.33.27:653][703]BlueprintLog: New page: Compile BP_Maze_BackTrack
+[2020.01.02-01.33.27:968][703]LogUObjectHash: Compacting FUObjectHashTables data took   5.66ms
+[2020.01.02-01.33.28:345][719]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Maze_BackTrack" FILE="../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/BP_Maze_BackTrack.uasset" SILENT=true
+[2020.01.02-01.33.28:377][719]LogSavePackage: Moving '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Saved/BP_Maze_BackTrack4A8677474894068C3BBE2CA7AEF9244D.tmp' to '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/BP_Maze_BackTrack.uasset'
+[2020.01.02-01.33.28:401][719]AssetCheck: New page: Asset Save: BP_Maze_BackTrack
+[2020.01.02-01.33.28:401][719]LogContentValidation: Display: Validating Blueprint /Game/BP_Maze_BackTrack.BP_Maze_BackTrack
+[2020.01.02-01.35.15:536][275]BlueprintLog: New page: Compile BP_Maze_BackTrack
+[2020.01.02-01.35.15:955][275]LogUObjectHash: Compacting FUObjectHashTables data took   7.98ms
+[2020.01.02-01.35.16:173][279]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Maze_BackTrack" FILE="../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/BP_Maze_BackTrack.uasset" SILENT=true
+[2020.01.02-01.35.16:221][279]LogSavePackage: Moving '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Saved/BP_Maze_BackTrackFA080B6A4E690C86353E4EB1F65C3F09.tmp' to '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/BP_Maze_BackTrack.uasset'
+[2020.01.02-01.35.16:244][279]AssetCheck: New page: Asset Save: BP_Maze_BackTrack
+[2020.01.02-01.35.16:244][279]LogContentValidation: Display: Validating Blueprint /Game/BP_Maze_BackTrack.BP_Maze_BackTrack
+[2020.01.02-01.48.17:435][ 44]BlueprintLog: New page: Compile BP_Maze_BackTrack
+[2020.01.02-01.48.17:764][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   5.78ms
+[2020.01.02-01.48.17:964][ 50]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Maze_BackTrack" FILE="../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/BP_Maze_BackTrack.uasset" SILENT=true
+[2020.01.02-01.48.18:001][ 50]LogSavePackage: Moving '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Saved/BP_Maze_BackTrack989C7F84471CDC1B66BDD2AF0603BCD4.tmp' to '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/BP_Maze_BackTrack.uasset'
+[2020.01.02-01.48.18:023][ 50]AssetCheck: New page: Asset Save: BP_Maze_BackTrack
+[2020.01.02-01.48.18:023][ 50]LogContentValidation: Display: Validating Blueprint /Game/BP_Maze_BackTrack.BP_Maze_BackTrack
+[2020.01.02-01.48.24:405][294]LogUObjectHash: Compacting FUObjectHashTables data took   6.98ms
+[2020.01.02-01.48.24:406][294]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level_01' took 0.063
+[2020.01.02-01.48.24:407][294]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BP_Maze_BackTrack] ([1] browsable assets)...
+[2020.01.02-01.48.24:448][294]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP_Maze_BackTrack.BP_Maze_BackTrack]
+[2020.01.02-01.48.24:448][294]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_Maze_BackTrack]
+[2020.01.02-01.48.24:485][294]LogSavePackage: Moving '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Saved/BP_Maze_BackTrack_Auto390C22A634562F81CD8A73EBF33EF8800.tmp' to '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Saved/Autosaves/Game/BP_Maze_BackTrack_Auto3.uasset'
+[2020.01.02-01.48.24:491][294]LogFileHelpers: Auto-saving content packages took 0.084
+[2020.01.02-01.49.57:384][776]BlueprintLog: New page: Compile BP_Maze_BackTrack
+[2020.01.02-01.49.57:700][776]LogUObjectHash: Compacting FUObjectHashTables data took   5.62ms
+[2020.01.02-01.49.58:129][795]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Maze_BackTrack" FILE="../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/BP_Maze_BackTrack.uasset" SILENT=true
+[2020.01.02-01.49.58:167][795]LogSavePackage: Moving '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Saved/BP_Maze_BackTrackBE31A847483462F2A0DF68B5D02DC852.tmp' to '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/BP_Maze_BackTrack.uasset'
+[2020.01.02-01.49.58:192][795]AssetCheck: New page: Asset Save: BP_Maze_BackTrack
+[2020.01.02-01.49.58:193][795]LogContentValidation: Display: Validating Blueprint /Game/BP_Maze_BackTrack.BP_Maze_BackTrack
+[2020.01.02-01.53.27:147][445]LogEditorTransaction: Undo Promote To Variable
+[2020.01.02-01.56.39:281][822]LogEditorTransaction: Undo Move Node
+[2020.01.02-01.57.43:494][444]LogEditorTransaction: Undo Create Pin Link
+[2020.01.02-01.58.33:875][645]BlueprintLog: New page: Compile BP_Maze_BackTrack
+[2020.01.02-01.58.34:202][645]LogUObjectHash: Compacting FUObjectHashTables data took   5.35ms
+[2020.01.02-01.58.34:619][664]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Maze_BackTrack" FILE="../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/BP_Maze_BackTrack.uasset" SILENT=true
+[2020.01.02-01.58.34:658][664]LogSavePackage: Moving '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Saved/BP_Maze_BackTrackD363253141E71A9EA68D8AA5BC5DBEAD.tmp' to '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/BP_Maze_BackTrack.uasset'
+[2020.01.02-01.58.34:680][664]AssetCheck: New page: Asset Save: BP_Maze_BackTrack
+[2020.01.02-01.58.34:681][664]LogContentValidation: Display: Validating Blueprint /Game/BP_Maze_BackTrack.BP_Maze_BackTrack
+[2020.01.02-02.07.03:806][830]BlueprintLog: New page: Compile BP_Maze_BackTrack
+[2020.01.02-02.07.04:209][830]LogUObjectHash: Compacting FUObjectHashTables data took   5.71ms
+[2020.01.02-02.07.04:451][837]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Maze_BackTrack" FILE="../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/BP_Maze_BackTrack.uasset" SILENT=true
+[2020.01.02-02.07.04:503][837]LogSavePackage: Moving '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Saved/BP_Maze_BackTrackED632364488DB609E8972F8B3E75F787.tmp' to '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/BP_Maze_BackTrack.uasset'
+[2020.01.02-02.07.04:526][837]AssetCheck: New page: Asset Save: BP_Maze_BackTrack
+[2020.01.02-02.07.04:526][837]LogContentValidation: Display: Validating Blueprint /Game/BP_Maze_BackTrack.BP_Maze_BackTrack
+[2020.01.02-02.08.55:085][292]LogUObjectHash: Compacting FUObjectHashTables data took   9.64ms
+[2020.01.02-02.08.55:086][292]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level_01' took 0.074
+[2020.01.02-02.08.55:087][292]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BP_Maze_BackTrack] ([1] browsable assets)...
+[2020.01.02-02.08.55:128][292]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP_Maze_BackTrack.BP_Maze_BackTrack]
+[2020.01.02-02.08.55:129][292]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_Maze_BackTrack]
+[2020.01.02-02.08.55:207][292]LogSavePackage: Moving '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Saved/BP_Maze_BackTrack_Auto46550802940EAABE52F99E2A4397217CB.tmp' to '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Saved/Autosaves/Game/BP_Maze_BackTrack_Auto4.uasset'
+[2020.01.02-02.08.55:215][292]LogFileHelpers: Auto-saving content packages took 0.129
+[2020.01.02-02.12.11:982][ 29]BlueprintLog: New page: Compile BP_Maze_BackTrack
+[2020.01.02-02.12.12:300][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   5.46ms
+[2020.01.02-02.12.12:612][ 41]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Maze_BackTrack" FILE="../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/BP_Maze_BackTrack.uasset" SILENT=true
+[2020.01.02-02.12.12:651][ 41]LogSavePackage: Moving '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Saved/BP_Maze_BackTrack63CE8265412060A03A65BDAB8CB4185B.tmp' to '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/BP_Maze_BackTrack.uasset'
+[2020.01.02-02.12.12:673][ 41]AssetCheck: New page: Asset Save: BP_Maze_BackTrack
+[2020.01.02-02.12.12:673][ 41]LogContentValidation: Display: Validating Blueprint /Game/BP_Maze_BackTrack.BP_Maze_BackTrack
+[2020.01.02-02.12.36:341][152]BlueprintLog: New page: Compile BP_Maze_BackTrack
+[2020.01.02-02.12.36:643][152]LogUObjectHash: Compacting FUObjectHashTables data took   5.51ms
+[2020.01.02-02.12.37:063][171]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Maze_BackTrack" FILE="../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/BP_Maze_BackTrack.uasset" SILENT=true
+[2020.01.02-02.12.37:101][171]LogSavePackage: Moving '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Saved/BP_Maze_BackTrackEC7AEF11423AB697491583B144A15CA1.tmp' to '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/BP_Maze_BackTrack.uasset'
+[2020.01.02-02.12.37:123][171]AssetCheck: New page: Asset Save: BP_Maze_BackTrack
+[2020.01.02-02.12.37:123][171]LogContentValidation: Display: Validating Blueprint /Game/BP_Maze_BackTrack.BP_Maze_BackTrack
+[2020.01.02-02.12.40:849][384]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Maze_BackTrack" FILE="../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/BP_Maze_BackTrack.uasset" SILENT=true
+[2020.01.02-02.12.40:879][384]LogSavePackage: Moving '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Saved/BP_Maze_BackTrack8A3237C54BF4079BF3A512B8621B74B1.tmp' to '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/BP_Maze_BackTrack.uasset'
+[2020.01.02-02.12.40:901][384]AssetCheck: New page: Asset Save: BP_Maze_BackTrack
+[2020.01.02-02.12.40:901][384]LogContentValidation: Display: Validating Blueprint /Game/BP_Maze_BackTrack.BP_Maze_BackTrack
+[2020.01.02-02.20.08:071][217]BlueprintLog: New page: Compile BP_Maze_BackTrack
+[2020.01.02-02.20.08:391][217]LogUObjectHash: Compacting FUObjectHashTables data took   5.48ms
+[2020.01.02-02.20.08:586][222]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Maze_BackTrack" FILE="../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/BP_Maze_BackTrack.uasset" SILENT=true
+[2020.01.02-02.20.08:631][222]LogSavePackage: Moving '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Saved/BP_Maze_BackTrack101822F4402759E1F6345FA33186BF20.tmp' to '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/BP_Maze_BackTrack.uasset'
+[2020.01.02-02.20.08:655][222]AssetCheck: New page: Asset Save: BP_Maze_BackTrack
+[2020.01.02-02.20.08:655][222]LogContentValidation: Display: Validating Blueprint /Game/BP_Maze_BackTrack.BP_Maze_BackTrack
+[2020.01.02-02.20.16:684][557]BlueprintLog: New page: Compile BP_Maze_BackTrack
+[2020.01.02-02.20.16:988][557]LogUObjectHash: Compacting FUObjectHashTables data took   5.15ms
+[2020.01.02-02.20.17:373][574]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Maze_BackTrack" FILE="../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/BP_Maze_BackTrack.uasset" SILENT=true
+[2020.01.02-02.20.17:412][574]LogSavePackage: Moving '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Saved/BP_Maze_BackTrack1DF2D9BA4D4DF22E3B0E4BA84E1E3726.tmp' to '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/BP_Maze_BackTrack.uasset'
+[2020.01.02-02.20.17:433][574]AssetCheck: New page: Asset Save: BP_Maze_BackTrack
+[2020.01.02-02.20.17:433][574]LogContentValidation: Display: Validating Blueprint /Game/BP_Maze_BackTrack.BP_Maze_BackTrack
+[2020.01.02-02.20.32:294][128]LogEditorTransaction: Undo Move Node
+[2020.01.02-02.20.55:987][  2]BlueprintLog: New page: Compile BP_Maze_BackTrack
+[2020.01.02-02.20.56:300][  2]LogUObjectHash: Compacting FUObjectHashTables data took   5.33ms
+[2020.01.02-02.20.56:544][ 11]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Maze_BackTrack" FILE="../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/BP_Maze_BackTrack.uasset" SILENT=true
+[2020.01.02-02.20.56:585][ 11]LogSavePackage: Moving '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Saved/BP_Maze_BackTrack662BACEF40E6148961D281B2E4751CF6.tmp' to '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/BP_Maze_BackTrack.uasset'
+[2020.01.02-02.20.56:609][ 11]AssetCheck: New page: Asset Save: BP_Maze_BackTrack
+[2020.01.02-02.20.56:609][ 11]LogContentValidation: Display: Validating Blueprint /Game/BP_Maze_BackTrack.BP_Maze_BackTrack
+[2020.01.02-02.21.32:244][105]BlueprintLog: New page: Compile BP_Maze_BackTrack
+[2020.01.02-02.21.32:554][105]LogUObjectHash: Compacting FUObjectHashTables data took   5.18ms
+[2020.01.02-02.21.33:424][150]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Maze_BackTrack" FILE="../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/BP_Maze_BackTrack.uasset" SILENT=true
+[2020.01.02-02.21.33:464][150]LogSavePackage: Moving '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Saved/BP_Maze_BackTrackBAEB02D648CAA5BA497CAB842DD56AF6.tmp' to '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/BP_Maze_BackTrack.uasset'
+[2020.01.02-02.21.33:488][150]AssetCheck: New page: Asset Save: BP_Maze_BackTrack
+[2020.01.02-02.21.33:488][150]LogContentValidation: Display: Validating Blueprint /Game/BP_Maze_BackTrack.BP_Maze_BackTrack
+[2020.01.02-02.22.04:183][703]BlueprintLog: New page: Compile BP_Maze_BackTrack
+[2020.01.02-02.22.04:493][703]LogUObjectHash: Compacting FUObjectHashTables data took   5.12ms
+[2020.01.02-02.22.04:821][716]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Maze_BackTrack" FILE="../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/BP_Maze_BackTrack.uasset" SILENT=true
+[2020.01.02-02.22.04:868][716]LogSavePackage: Moving '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Saved/BP_Maze_BackTrack6EDF9C2C43E35780161B48BA43D8DD60.tmp' to '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/BP_Maze_BackTrack.uasset'
+[2020.01.02-02.22.04:892][716]AssetCheck: New page: Asset Save: BP_Maze_BackTrack
+[2020.01.02-02.22.04:892][716]LogContentValidation: Display: Validating Blueprint /Game/BP_Maze_BackTrack.BP_Maze_BackTrack
+[2020.01.02-02.22.13:847][183]BlueprintLog: New page: Compile BP_Maze_BackTrack
+[2020.01.02-02.22.14:147][183]LogUObjectHash: Compacting FUObjectHashTables data took   5.82ms
+[2020.01.02-02.22.38:773][591]LogUObjectHash: Compacting FUObjectHashTables data took   5.15ms
+[2020.01.02-02.22.38:774][591]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level_01' took 0.046
+[2020.01.02-02.22.38:774][591]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BP_Maze_BackTrack] ([1] browsable assets)...
+[2020.01.02-02.22.38:814][591]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP_Maze_BackTrack.BP_Maze_BackTrack]
+[2020.01.02-02.22.38:814][591]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_Maze_BackTrack]
+[2020.01.02-02.22.38:854][591]LogSavePackage: Moving '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Saved/BP_Maze_BackTrack_Auto599678861406697C501A5B69AADCB897F.tmp' to '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Saved/Autosaves/Game/BP_Maze_BackTrack_Auto5.uasset'
+[2020.01.02-02.22.38:856][591]LogFileHelpers: Auto-saving content packages took 0.082
+[2020.01.02-02.22.43:518][790]BlueprintLog: New page: Compile BP_Maze_BackTrack
+[2020.01.02-02.22.43:834][790]LogUObjectHash: Compacting FUObjectHashTables data took   5.74ms
+[2020.01.02-02.22.44:461][818]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Maze_BackTrack" FILE="../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/BP_Maze_BackTrack.uasset" SILENT=true
+[2020.01.02-02.22.44:500][818]LogSavePackage: Moving '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Saved/BP_Maze_BackTrack47025E664F75ED7ADC8EEC89129054BD.tmp' to '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/BP_Maze_BackTrack.uasset'
+[2020.01.02-02.22.44:531][818]AssetCheck: New page: Asset Save: BP_Maze_BackTrack
+[2020.01.02-02.22.44:531][818]LogContentValidation: Display: Validating Blueprint /Game/BP_Maze_BackTrack.BP_Maze_BackTrack
+[2020.01.02-02.23.00:030][576]BlueprintLog: New page: Compile BP_Maze_BackTrack
+[2020.01.02-02.23.00:343][576]LogUObjectHash: Compacting FUObjectHashTables data took   5.26ms
+[2020.01.02-02.23.00:687][590]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Maze_BackTrack" FILE="../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/BP_Maze_BackTrack.uasset" SILENT=true
+[2020.01.02-02.23.00:730][590]LogSavePackage: Moving '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Saved/BP_Maze_BackTrack48D48E6247B47DB435D16D947037BFBA.tmp' to '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/BP_Maze_BackTrack.uasset'
+[2020.01.02-02.23.00:751][590]AssetCheck: New page: Asset Save: BP_Maze_BackTrack
+[2020.01.02-02.23.00:752][590]LogContentValidation: Display: Validating Blueprint /Game/BP_Maze_BackTrack.BP_Maze_BackTrack
+[2020.01.02-02.23.05:671][761]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Maze_BackTrack" FILE="../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/BP_Maze_BackTrack.uasset" SILENT=true
+[2020.01.02-02.23.05:705][761]LogSavePackage: Moving '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Saved/BP_Maze_BackTrackD784A9F34A43654AEFB6AE88520143BD.tmp' to '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/BP_Maze_BackTrack.uasset'
+[2020.01.02-02.23.05:726][761]AssetCheck: New page: Asset Save: BP_Maze_BackTrack
+[2020.01.02-02.23.05:726][761]LogContentValidation: Display: Validating Blueprint /Game/BP_Maze_BackTrack.BP_Maze_BackTrack
+[2020.01.02-02.25.26:110][ 88]BlueprintLog: New page: Compile BP_Maze_BackTrack
+[2020.01.02-02.25.26:424][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   5.84ms
+[2020.01.02-02.25.26:835][106]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Maze_BackTrack" FILE="../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/BP_Maze_BackTrack.uasset" SILENT=true
+[2020.01.02-02.25.26:882][106]LogSavePackage: Moving '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Saved/BP_Maze_BackTrack91A227324A5111E0FB52C5B41BB5A161.tmp' to '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Game/NeonMaze/Content/BP_Maze_BackTrack.uasset'
+[2020.01.02-02.25.26:903][106]AssetCheck: New page: Asset Save: BP_Maze_BackTrack
+[2020.01.02-02.25.26:903][106]LogContentValidation: Display: Validating Blueprint /Game/BP_Maze_BackTrack.BP_Maze_BackTrack
+[2020.01.02-02.26.10:044][587]LogRHI: Error: SyncInterval 0
+[2020.01.02-02.26.10:044][587]LogRHI: Error: SwapChainDesc.BufferDesc.Width 513
+[2020.01.02-02.26.10:044][587]LogRHI: Error: SwapChainDesc.BufferDesc.Height 513
+[2020.01.02-02.26.10:044][587]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2020.01.02-02.26.10:044][587]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2020.01.02-02.26.10:044][587]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2020.01.02-02.26.10:044][587]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2020.01.02-02.26.10:044][587]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2020.01.02-02.26.10:044][587]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2020.01.02-02.26.10:044][587]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2020.01.02-02.26.10:044][587]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2020.01.02-02.26.10:044][587]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2020.01.02-02.26.10:044][587]LogRHI: Error: SwapChainDesc.OutputWindow 000000000021317C
+[2020.01.02-02.26.10:044][587]LogRHI: Error: SwapChainDesc.Windowed true
+[2020.01.02-02.26.10:044][587]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2020.01.02-02.26.10:044][587]LogRHI: Error: SwapChainDesc.Flags 2050
+[2020.01.02-02.26.10:044][587]LogD3D11RHI: Error: Result failed 
+ at D:/Build/++UE4/Sync/Engine/Source/Runtime/Windows/D3D11RHI/Private/D3D11Viewport.cpp:389 
+ with error DXGI_ERROR_DEVICE_REMOVED 00000000
+[2020.01.02-02.26.10:044][587]LogD3D11RHI: [Aftermath] GDynamicRHI=000001AFFBBE20C0, GDX11NVAfterMathEnabled=0, Result=0xFFFFFFFF, bDeviceActive=0
+[2020.01.02-02.26.10:044][587]LogWindows: Windows GetLastError: The operation completed successfully. (0)
